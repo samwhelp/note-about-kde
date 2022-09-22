@@ -18,3 +18,8 @@ parent: 連結
 * SourceForge / [XeroLinux](https://sourceforge.net/projects/xerolinux/files/)
 * YuruMirror / [XeroLinux](https://mirror.funami.tech/xerolinux/)
 * fosstorrents / [XeroLinux](https://fosstorrents.com/distributions/xerolinux/)
+
+
+## note
+
+* [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/)
