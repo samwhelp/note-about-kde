@@ -1,6 +1,6 @@
 ---
 title: Nitrux
-nav_order: 9010
+nav_order: 9030
 has_children: false
 parent: 連結
 ---

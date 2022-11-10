@@ -1,6 +1,6 @@
 ---
 title: Big Linux
-nav_order: 9030
+nav_order: 9010
 has_children: false
 parent: 連結
 ---
