@@ -16,7 +16,10 @@
 
 ## 相關筆記
 
-* [Ubuntu 20.04 (Focal Fossa) 探索筆記](https://samwhelp.github.io/note-ubuntu-20.04) ([GitHub](https://github.com/samwhelp/note-ubuntu-20.04))
+* [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
+* [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
+* [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) ([GitHub](https://github.com/samwhelp/note-about-nitrux/))
+* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) ([GitHub](https://github.com/samwhelp/note-about-ubuntu/))
 
 
 ## samwhelp
