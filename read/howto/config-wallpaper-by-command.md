@@ -1,6 +1,6 @@
 ---
 title: 設定 Wallpaper
-nav_order: 7010
+nav_order: 7030
 has_children: true
 parent: 如何
 ---
