@@ -9,6 +9,20 @@ parent: 如何
 # 設定按鍵綁定
 
 
+## 參考步驟
+
+``` sh
+systemctl --user stop plasma-kglobalaccel.service
+```
+
+``` sh
+install -Dm644 "./kglobalshortcutsrc" "${HOME}/.config/kglobalshortcutsrc"
+```
+
+``` sh
+systemctl --user start plasma-kglobalaccel.service
+```
+
 ## 參考案例
 
 | 實作案例 |

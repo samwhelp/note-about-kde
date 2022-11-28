@@ -9,6 +9,21 @@ parent: 如何
 # 設定 Desktop Layout
 
 
+## 參考步驟
+
+``` sh
+systemctl --user stop plasma-plasmashell.service
+```
+
+``` sh
+install -Dm644 "./kglobalshortcutsrc" "${HOME}/.config/plasma-org.kde.plasma.desktop-appletsrc"
+```
+
+``` sh
+systemctl --user start plasma-plasmashell.service
+```
+
+
 ## 參考案例
 
 | 實作案例 |
