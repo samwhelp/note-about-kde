@@ -16,7 +16,7 @@ systemctl --user stop plasma-plasmashell.service
 ```
 
 ``` sh
-install -Dm644 "./kglobalshortcutsrc" "${HOME}/.config/plasma-org.kde.plasma.desktop-appletsrc"
+install -Dm644 "./plasma-org.kde.plasma.desktop-appletsrc" "${HOME}/.config/plasma-org.kde.plasma.desktop-appletsrc"
 ```
 
 ``` sh
