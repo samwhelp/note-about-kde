@@ -9,6 +9,19 @@ parent: 如何
 # 設定 Wallpaper
 
 
+## 設定檔路徑
+
+* ~/.config/[plasma-org.kde.plasma.desktop-appletsrc](https://github.com/samwhelp/note-about-ubuntu/blob/gh-pages/_legacy/22.10/adjustment/de/kde-plasma/part/layout/kde-plasma-desktop-layout-basic/config/kde-plasma-desktop/skel/.config/plasma-org.kde.plasma.desktop-appletsrc#L22)
+
+
+## 設定片段
+
+``` ini
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/FallenLeaf/contents/images/2560x1600.jpg
+```
+
+
 ## 範例
 
 ### by-sed
@@ -50,5 +63,5 @@ parent: 如何
 | 實作案例 |
 | --- |
 | [opset-wallpaper-kde](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-kde.html) |
-| Ezearcher Adjustment / [kde-plasma-keybind-main](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main) |
-| Ubuntu Adjustment / [kde-plasma-keybind-main](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_legacy/22.10/adjustment/de/kde-plasma/part/keybind/kde-plasma-keybind-main) |
+| Ezearcher Adjustment / [kde-plasma-desktop-layout](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/layout) |
+| Ubuntu Adjustment / [kde-plasma-desktop-layout](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_legacy/22.10/adjustment/de/kde-plasma/part/layout) |
