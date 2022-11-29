@@ -37,3 +37,11 @@ systemctl --user start plasma-plasmashell.service
 | --- |
 | Ezearcher Adjustment / [kde-plasma-desktop-layout](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/layout) |
 | Ubuntu Adjustment / [kde-plasma-desktop-layout](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_legacy/22.10/adjustment/de/kde-plasma/part/layout) |
+
+
+## Dump
+
+
+``` sh
+qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.dumpCurrentLayoutJS
+```
