@@ -10,6 +10,7 @@ has_children: true
 ## KDE
 
 * [KDE](https://kde.org/)
+* KDE / [Documentation](https://develop.kde.org/docs/)
 
 
 
