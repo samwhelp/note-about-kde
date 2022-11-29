@@ -5,12 +5,12 @@
 
 ## Demo
 
-| Demo |
-| --- |
-| [config-wallpaper-by-sed](config-wallpaper-by-sed) |
-| [config-wallpaper-by-kwriteconfig5](config-wallpaper-by-kwriteconfig5) |
-| [config-wallpaper-by-dbus-evaluate-script](config-wallpaper-by-dbus-evaluate-script) |
-| [config-wallpaper-by-plasma-apply-wallpaperimage](config-wallpaper-by-plasma-apply-wallpaperimage) |
+| Demo Project | Script |
+| --- | --- |
+| [config-wallpaper-by-sed](config-wallpaper-by-sed) | [Script](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-sed/config-install.sh) |
+| [config-wallpaper-by-kwriteconfig5](config-wallpaper-by-kwriteconfig5) | [Script](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-kwriteconfig5/config-install.sh) |
+| [config-wallpaper-by-dbus-evaluate-script](config-wallpaper-by-dbus-evaluate-script) | [Script](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-dbus-evaluate-script/config-install.sh) |
+| [config-wallpaper-by-plasma-apply-wallpaperimage](config-wallpaper-by-plasma-apply-wallpaperimage) | [Script](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-plasma-apply-wallpaperimag/config-install.sh) |
 
 
 

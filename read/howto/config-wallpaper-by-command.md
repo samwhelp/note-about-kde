@@ -9,6 +9,28 @@ parent: 如何
 # 設定 Wallpaper
 
 
+## 範例
+
+### by-sed
+
+* [config-wallpaper-by-sed](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-sed/config-install.sh)
+
+
+### by-kwriteconfig5
+
+* [config-wallpaper-by-kwriteconfig5](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-kwriteconfig5/config-install.sh)
+
+
+### by-dbus-evaluate-script
+
+* [config-wallpaper-by-dbus-evaluate-script](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-dbus-evaluate-script/config-install.sh)
+
+
+### by-plasma-apply-wallpaperimage
+
+* [config-wallpaper-by-plasma-apply-wallpaperimage](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/config-wallpaper-by-command/config-wallpaper-by-plasma-apply-wallpaperimage/config-install.sh)
+
+
 ## 參考連結
 
 * [How to set KDE desktop wallpaper from command line?](https://superuser.com/questions/488232/how-to-set-kde-desktop-wallpaper-from-command-line)
