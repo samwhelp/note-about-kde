@@ -1,7 +1,7 @@
 ---
 title: 設定 Desktop Layout
 nav_order: 7020
-has_children: true
+has_children: false
 parent: 如何
 ---
 
