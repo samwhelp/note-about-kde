@@ -14,3 +14,8 @@ parent: 如何
 | 實作案例 |
 | --- |
 | [breeze-dark-center-panel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-look-and-feel/breeze-dark-center-panel) |
+
+
+## 相關連結
+
+* KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/extend/plasma/)
