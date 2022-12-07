@@ -20,6 +20,7 @@
 
 * [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
 * [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
+* [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) ([GitHub](https://github.com/samwhelp/note-about-xerolinux/))
 * [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) ([GitHub](https://github.com/samwhelp/note-about-nitrux/))
 * [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) ([GitHub](https://github.com/samwhelp/note-about-ubuntu/))
 
