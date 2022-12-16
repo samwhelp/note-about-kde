@@ -38,7 +38,7 @@ systemctl --user start plasma-kglobalaccel.service
 
 ## 參考案例
 
-| 實作案例 |
+| 參考案例 |
 | --- |
 | BigLinux / [change-plasma-theme](https://github.com/biglinux/biglinux-session-and-themes/blob/main/usr/bin/change-plasma-theme#L32) |
 
