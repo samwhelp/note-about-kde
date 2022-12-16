@@ -27,15 +27,15 @@ grand_parent: 設定
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
-| `Alt + 1` | 切換到工作空間 1 (File) | `Switch to Desktop 1=` |
-| `Alt + 2` | 切換到工作空間 2 (Edit) | `Switch to Desktop 2=` |
-| `Alt + 3` | 切換到工作空間 3 (Web)  | `Switch to Desktop 3=` |
-| `Alt + 4` | 切換到工作空間 4 (Term) | `Switch to Desktop 4=` |
-| `Alt + 5` | 切換到工作空間 5 (Misc) | `Switch to Desktop 5=` |
-| `Alt + 6` | 切換到工作空間 6        | `Switch to Desktop 6=` |
-| `Alt + 7` | 切換到工作空間 7        | `Switch to Desktop 7=` |
-| `Alt + 8` | 切換到工作空間 8        | `Switch to Desktop 8=` |
-| `Alt + 9` | 切換到工作空間 9        | `Switch to Desktop 9=` |
+| `Alt + Ctrl + 1` | 切換到工作空間 1 (File) | `Switch to Desktop 1=` |
+| `Alt + Ctrl + 2` | 切換到工作空間 2 (Edit) | `Switch to Desktop 2=` |
+| `Alt + Ctrl + 3` | 切換到工作空間 3 (Web)  | `Switch to Desktop 3=` |
+| `Alt + Ctrl + 4` | 切換到工作空間 4 (Term) | `Switch to Desktop 4=` |
+| `Alt + Ctrl + 5` | 切換到工作空間 5 (Misc) | `Switch to Desktop 5=` |
+| `Alt + Ctrl + 6` | 切換到工作空間 6        | `Switch to Desktop 6=` |
+| `Alt + Ctrl + 7` | 切換到工作空間 7        | `Switch to Desktop 7=` |
+| `Alt + Ctrl + 8` | 切換到工作空間 8        | `Switch to Desktop 8=` |
+| `Alt + Ctrl + 9` | 切換到工作空間 9        | `Switch to Desktop 9=` |
 
 
 
