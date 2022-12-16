@@ -9,15 +9,28 @@ parent: 如何
 # 設定按鍵綁定
 
 
+## 設定檔
+
+| 設定檔路徑 |
+| --- |
+| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc) |
+
+
 ## 參考步驟
+
+執行下面指令，先把「plasma-kglobalaccel.service」停掉。
 
 ``` sh
 systemctl --user stop plasma-kglobalaccel.service
 ```
 
+執行下面指令，將「~/.config/kglobalshortcutsrc」覆蓋成自己留存的「kglobalshortcutsrc」。
+
 ``` sh
 install -Dm644 "./kglobalshortcutsrc" "${HOME}/.config/kglobalshortcutsrc"
 ```
+
+執行下面指令，接著把「plasma-kglobalaccel.service」啟動。
 
 ``` sh
 systemctl --user start plasma-kglobalaccel.service
@@ -46,4 +59,4 @@ systemctl --user start plasma-kglobalaccel.service
 
 ## 相關說明
 
-* [按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
+* [KDE Plasma Adjustment / 按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
