@@ -9,6 +9,8 @@ grand_parent: 設定
 
 # 視窗聚焦切換
 
+> KDE Plasma Adjustment / [Keybind](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
+
 
 ## 前後聚焦切換
 

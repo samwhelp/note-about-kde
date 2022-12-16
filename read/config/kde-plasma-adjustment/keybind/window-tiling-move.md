@@ -9,6 +9,8 @@ grand_parent: 設定
 
 # 視窗平鋪移動操作
 
+> KDE Plasma Adjustment / [Keybind](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
+
 
 ## 移動到側邊(side)
 
