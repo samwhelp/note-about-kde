@@ -1,13 +1,13 @@
 ---
-title: 視窗移到指定「工作空間
+title: 視窗移到指定工作空間
 nav_order: 5041
 has_children: false
-parent: 我的設定
+parent: KDE Plasma Adjustment
 grand_parent: 設定
 ---
 
 
-# 視窗移到指定「工作空間
+# 視窗移到指定工作空間
 
 
 * [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L162-L181)
