@@ -14,14 +14,15 @@ grand_parent: 設定
 
 ## 一般
 
-* [設定片段 / sakura](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L283-L285)
+* [設定片段 / sakura](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L284-L286)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
 | `Alt + Enter`     | 開啟 Terminal | `sakura`                 |
 | `Alt + Shift + a` | 開啟 Terminal | `sakura`                 |
 
-* [設定片段 / konsole](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L211-L215)
+
+* [設定片段 / konsole](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L207-L211)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
@@ -31,7 +32,7 @@ grand_parent: 設定
 
 ## 下拉式
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L298-L300)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L308-L310)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------------------- | ---------------------------- |
