@@ -8,6 +8,13 @@
 * [mousebind](spec-mousebind.md)
 
 
+## Config File Path
+
+| Config File Path |
+| --- |
+| [~/.config/kglobalshortcutsrc](config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc) |
+
+
 ## Note
 
 run
