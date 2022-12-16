@@ -14,6 +14,11 @@ has_children: true
 * KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/extend/plasma/)
 
 
+## KDE / Source
+
+* GitHub / [KDE](https://github.com/KDE) / [plasma-desktop](https://github.com/KDE/plasma-desktop)
+* GitLab / [KDE](https://invent.kde.org/explore/groups) / [plasma-desktop](https://invent.kde.org/plasma/plasma-desktop)
+
 
 ## Just the Docs
 
