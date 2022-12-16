@@ -25,7 +25,7 @@ grand_parent: 設定
 * [內容區塊收合](#內容區塊收合)
 * [切換顯示隱藏視窗裝飾](#切換顯示隱藏視窗裝飾)
 * [將下方視窗移上來](#將下方視窗移上來)
-* [視窗移動至中央部位](#視窗移動至中央部位)
+* [視窗移動至畫面中央部位](#視窗移動至畫面中央部位)
 
 
 ## 關閉視窗
@@ -139,10 +139,10 @@ grand_parent: 設定
 | `Win + z` | 將下方視窗移上來 | `Toggle Window Raise/Lower=` |
 
 
-## 視窗移動至中央部位
+## 視窗移動至畫面中央部位
 
 * [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L137)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + m` | 視窗移動至中央部位 | `Window Move Center` |
+| `Win + m` | 視窗移動至畫面中央部位 | `Window Move Center` |
