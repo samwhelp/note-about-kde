@@ -27,7 +27,7 @@ grand_parent: 設定
 請參考「[我的設定檔: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc)」。
 
 
-還有參考另一篇「[設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
+還有參考另一篇「[如何設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
 
 
 ## 系統操作
