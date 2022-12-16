@@ -26,6 +26,7 @@ grand_parent: 設定
 * [切換顯示隱藏視窗裝飾](#切換顯示隱藏視窗裝飾)
 * [將下方視窗移上來](#將下方視窗移上來)
 * [視窗移動至畫面中央部位](#視窗移動至畫面中央部位)
+* [透明度](#透明度)
 
 
 ## 關閉視窗
@@ -146,3 +147,15 @@ grand_parent: 設定
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + m` | 視窗移動至畫面中央部位 | `Window Move Center` |
+
+
+## 透明度
+
+
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L53)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L57)
+
+| 按鍵組合          | 功能     | 執行指令         |
+| --------- | ---------- | ----------------------------- |
+| `Win + ;` | 視窗更加透明 | `Decrease Opacity=` |
+| `Win + '` | 視窗更不透明 | `Increase Opacity=` |
