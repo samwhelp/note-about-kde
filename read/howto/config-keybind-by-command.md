@@ -34,6 +34,7 @@ systemctl --user start plasma-kglobalaccel.service
 
 | 實作案例 |
 | --- |
+| KDE Plasma Adjustment / [kde-plasma-keybind-main](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/) |
 | Ezearcher Adjustment / [kde-plasma-keybind-main](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main) |
 | Ubuntu Adjustment / [kde-plasma-keybind-main](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_legacy/22.10/adjustment/de/kde-plasma/part/keybind/kde-plasma-keybind-main) |
 
@@ -41,3 +42,8 @@ systemctl --user start plasma-kglobalaccel.service
 ## 相關連結
 
 * KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/extend/plasma/)
+
+
+## 相關說明
+
+* [按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
