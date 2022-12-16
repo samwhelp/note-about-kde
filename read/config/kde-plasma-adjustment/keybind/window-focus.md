@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 前後聚焦切換
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L121-L122)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L117-L118)
 
 
 | 按鍵組合  | 功能                   | 執行指令               |
@@ -24,7 +24,7 @@ grand_parent: 設定
 > 也可以在「Panel」的「視窗區」，使用「滑鼠中鍵」，上下滾動，循環切換「視窗」。
 
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L123-L124)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L119-L120)
 
 
 | 按鍵組合  | 功能                   | 執行指令               |
