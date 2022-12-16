@@ -14,28 +14,29 @@ grand_parent: 設定
 
 ## 顯示「視窗操作選單」
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L148)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L144)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Space`  | 顯示「視窗操作選單」 | `Window Operations Menu=` |
 | `Alt + F3`  | 顯示「視窗操作選單」 | `Window Operations Menu=` |
+| `Alt + Space`  | 顯示「視窗操作選單」 | `Window Operations Menu=` |
 
 > 也可以在「視窗標題列」使用「滑鼠右鍵」，就會顯示「視窗操作選單」。
 
 
 ## 顯示「開始功能表」
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L226)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L265)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + F1`  | 顯示「桌面操作選單」 | `Activate Application Menu Widget=` |
+| `Alt + F1`  | 顯示「桌面操作選單」 | `activate widget 3=` |
+| `Win + Space`  | 顯示「桌面操作選單」 | `activate widget 3=` |
 
 
 ## 顯示「顯示所有開啟視窗」
 
-* [設定片段](https://github.com/samwhelp/note-about-mabox/tree/gh-pages/_demo/project/mabox-adjustment/asset/overlay/etc/skel/.config/openbox/share/gen/openbox-gen-rc/Section/Keybind/MenuClientList.php#L57)
+* [設定片段](https://github.com/samwhelp/note-about-mabox/tree/gh-pages/_demo/project/mabox-adjustment/asset/overlay/etc/skel/.config/openbox/share/gen/openbox-gen-rc/Section/Keybind/MenuClientList.php#L55)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -44,7 +45,7 @@ grand_parent: 設定
 
 ## krunner
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L217-L220)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L213-L216)
 
 
 | 按鍵組合           | 功能        | 執行指令             |
