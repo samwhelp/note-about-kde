@@ -55,7 +55,7 @@ grand_parent: 設定
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Meta + grave`  | Toggle Overview | `Overview=` |
+| `Win + grave`  | Toggle Overview | `Overview=` |
 
 > grave means `
 
@@ -66,4 +66,4 @@ grand_parent: 設定
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Meta + Tab`  | Toggle Present Windows (Current desktop) | `Expose=` |
+| `Win + Tab`  | Toggle Present Windows (Current desktop) | `Expose=` |
