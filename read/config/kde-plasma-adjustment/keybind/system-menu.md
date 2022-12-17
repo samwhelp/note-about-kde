@@ -52,3 +52,15 @@ grand_parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Alt + F2`  | 執行 krunner | `krunner` |
 | `Alt + Shift + d`  | 執行 krunner | `krunner` |
+
+
+## System Activity
+
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L26)
+
+
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Ctrl + Esc`  | Show System Activity | `Show System Activity=` |
+
+
