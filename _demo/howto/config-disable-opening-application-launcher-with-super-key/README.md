@@ -7,7 +7,7 @@
 
 | Demo Project | Script |
 | --- | --- |
-| [demo-001](demo-001) | [Script](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-disable-opening-application-launcher-with-super-key/demo-001/config-install.sh) |
+| [demo-disable-super-key](demo-disable-super-key) | [Script](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/config-disable-opening-application-launcher-with-super-key/demo-001/config-install.sh) |
 
 
 
