@@ -2,7 +2,7 @@
 title: 應用程式切換 Tab Page
 nav_order: 5017
 has_children: false
-parent: KDE Plasma Adjustment
+parent: 按鍵綁定
 grand_parent: 設定
 ---
 

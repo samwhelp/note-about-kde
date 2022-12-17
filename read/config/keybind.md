@@ -1,9 +1,8 @@
 ---
 title: 按鍵綁定
-nav_order: 2030
+nav_order: 2010
 has_children: false
-parent: KDE Plasma Adjustment
-grand_parent: 設定
+parent: 設定
 ---
 
 
@@ -24,7 +23,7 @@ grand_parent: 設定
 
 ## 設定檔
 
-這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment.html)」，
+這篇的根據，是採用「[客製的設定](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)」，
 
 請參考「[我的設定檔: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc)」。
 

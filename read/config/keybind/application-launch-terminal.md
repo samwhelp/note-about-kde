@@ -2,7 +2,7 @@
 title: 開啟應用程式 (Terminal)
 nav_order: 5010
 has_children: false
-parent: KDE Plasma Adjustment
+parent: 按鍵綁定
 grand_parent: 設定
 ---
 

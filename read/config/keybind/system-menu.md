@@ -2,7 +2,7 @@
 title: 系統選單
 nav_order: 5002
 has_children: false
-parent: KDE Plasma Adjustment
+parent: 按鍵綁定
 grand_parent: 設定
 ---
 

@@ -2,7 +2,7 @@
 title: 開啟應用程式 (常用的)
 nav_order: 5013
 has_children: false
-parent: KDE Plasma Adjustment
+parent: 按鍵綁定
 grand_parent: 設定
 ---
 
