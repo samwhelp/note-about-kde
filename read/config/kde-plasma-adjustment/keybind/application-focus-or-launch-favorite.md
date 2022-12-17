@@ -30,3 +30,10 @@ grand_parent: 設定
 | `Win + 9` | 聚焦或開啟「應用程式 9」              | `activate task manager entry 9=` |
 
 
+
+
+## 用法對照
+
+* [工作空間切換](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/workspace-switch.html)
+* [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/window-move-to-workspace.html)
+
