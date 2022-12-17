@@ -21,3 +21,10 @@ grand_parent: 設定
 | `Win + 0` | 桌面恢復原來大小 | `view_actual_size=` |
 | `Win + -` | 桌面縮小  | `view_zoom_out=` |
 | `Win + =` | 桌面放大 | `view_zoom_in=`  |
+
+
+
+
+## 用法對照
+
+* [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-focus-or-launch-favorite.html)

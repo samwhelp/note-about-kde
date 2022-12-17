@@ -30,6 +30,8 @@ grand_parent: 設定
 > 例如：firefox, terminal, mousepad ...
 
 
+
+
 ## 用法對照
 
 * [工作空間切換](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/workspace-switch.html)
