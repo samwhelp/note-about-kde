@@ -1,6 +1,6 @@
 ---
 title: 停用「Win鍵」開啟「開始功能表」
-nav_order: 7010
+nav_order: 7050
 has_children: false
 parent: 如何
 ---
