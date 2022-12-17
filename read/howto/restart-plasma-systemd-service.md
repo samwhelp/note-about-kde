@@ -40,7 +40,7 @@ systemctl --user status
 
 ## 相關連結
 
-* KDE / Wiki / [Plasma Themes and Plugins](https://invent.kde.org/plasma/plasma-workspace/-/wikis/Plasma-and-the-systemd-boot)
+* KDE / Wiki / [Plasma and the systemd boot](https://invent.kde.org/plasma/plasma-workspace/-/wikis/Plasma-and-the-systemd-boot)
 
 
 ## 探索
