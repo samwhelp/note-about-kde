@@ -19,6 +19,7 @@ parent: 設定
 * [音量控制](#音量控制)
 * [螢幕亮度控制](#螢幕亮度控制)
 * [統整對照](#統整對照)
+* [圖形使用者介面程式](#圖形使用者介面程式)
 
 
 ## 設定檔
@@ -84,3 +85,12 @@ parent: 設定
 ## 統整對照
 
 * [通用鍵盤組合鍵操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind-common)
+
+
+## 圖形使用者介面程式
+
+* /usr/share/applications/kcm_keys.desktop
+
+``` sh
+systemsettings kcm_keys
+```
