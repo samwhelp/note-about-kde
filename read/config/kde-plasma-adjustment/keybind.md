@@ -65,9 +65,13 @@ grand_parent: 設定
 | [桌面操作](keybind/desktop-control) |
 
 
-
 ## 音量控制
 
 | 主題 |
 | --- |
 | [音量控制](keybind/volume-control) |
+
+
+## 統整對照
+
+* [通用鍵盤組合鍵操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind-common)

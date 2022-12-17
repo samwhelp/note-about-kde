@@ -33,6 +33,8 @@ grand_parent: 設定
 > 關於「Win + 0」，用來綁定「[桌面恢復原來大小](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/desktop-control.html)」。
 
 
+
+
 ## 用法對照
 
 * [工作空間切換](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/workspace-switch.html)

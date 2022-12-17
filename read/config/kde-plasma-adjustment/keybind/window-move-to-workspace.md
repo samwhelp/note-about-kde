@@ -25,3 +25,13 @@ grand_parent: 設定
 | `Alt + Shift + 7` | 「視窗」移到「工作空間 7」        | `Window to Desktop 7=` |
 | `Alt + Shift + 8` | 「視窗」移到「工作空間 8」        | `Window to Desktop 8=` |
 | `Alt + Shift + 9` | 「視窗」移到「工作空間 9」        | `Window to Desktop 9=` |
+
+
+
+
+## 用法對照
+
+* [工作空間切換](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/workspace-switch.html)
+* [應用程式切換 Tab Page](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-tab-page.html)
+* [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-focus-or-launch-favorite.html)
+* 通用鍵盤組合鍵操作 / [使用「上排數字鍵」相關的操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind/with-number-key)
