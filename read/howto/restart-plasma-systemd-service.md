@@ -21,6 +21,9 @@ systemctl --user stop plasma-plasmashell.service
 systemctl --user start plasma-plasmashell.service
 ```
 
+``` sh
+systemctl --user status plasma-plasmashell.service
+```
 
 ``` sh
 systemctl --user status
