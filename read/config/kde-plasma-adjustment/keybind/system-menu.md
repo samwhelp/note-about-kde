@@ -34,6 +34,9 @@ grand_parent: 設定
 | `Win + Space`  | 顯示「桌面操作選單」 | `activate widget 3=` |
 
 
+> 只用「Win」顯示「開始功能表」的功能被我停用了。
+
+
 ## 顯示「顯示所有開啟視窗」
 
 * [設定片段](https://github.com/samwhelp/note-about-mabox/tree/gh-pages/_demo/project/mabox-adjustment/asset/overlay/etc/skel/.config/openbox/share/gen/openbox-gen-rc/Section/Keybind/MenuClientList.php#L55)
