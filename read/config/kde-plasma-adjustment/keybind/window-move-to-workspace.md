@@ -16,12 +16,12 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | -------------------------------------------- | --------------------------------------------------- |
-| `Win + Shift + 1` | 「視窗」移到「工作空間 1 (File)」 | `Window to Desktop 1=` |
-| `Win + Shift + 2` | 「視窗」移到「工作空間 2 (Edit)」 | `Window to Desktop 2=` |
-| `Win + Shift + 3` | 「視窗」移到「工作空間 3 (Web) 」 | `Window to Desktop 3=` |
-| `Win + Shift + 4` | 「視窗」移到「工作空間 4 (Term)」 | `Window to Desktop 4=` |
-| `Win + Shift + 5` | 「視窗」移到「工作空間 5 (Misc)」 | `Window to Desktop 5=` |
-| `Win + Shift + 6` | 「視窗」移到「工作空間 6」        | `Window to Desktop 6=` |
-| `Win + Shift + 7` | 「視窗」移到「工作空間 7」        | `Window to Desktop 7=` |
-| `Win + Shift + 8` | 「視窗」移到「工作空間 8」        | `Window to Desktop 8=` |
-| `Win + Shift + 9` | 「視窗」移到「工作空間 9」        | `Window to Desktop 9=` |
+| `Alt + Shift + 1` | 「視窗」移到「工作空間 1 (File)」 | `Window to Desktop 1=` |
+| `Alt + Shift + 2` | 「視窗」移到「工作空間 2 (Edit)」 | `Window to Desktop 2=` |
+| `Alt + Shift + 3` | 「視窗」移到「工作空間 3 (Web) 」 | `Window to Desktop 3=` |
+| `Alt + Shift + 4` | 「視窗」移到「工作空間 4 (Term)」 | `Window to Desktop 4=` |
+| `Alt + Shift + 5` | 「視窗」移到「工作空間 5 (Misc)」 | `Window to Desktop 5=` |
+| `Alt + Shift + 6` | 「視窗」移到「工作空間 6」        | `Window to Desktop 6=` |
+| `Alt + Shift + 7` | 「視窗」移到「工作空間 7」        | `Window to Desktop 7=` |
+| `Alt + Shift + 8` | 「視窗」移到「工作空間 8」        | `Window to Desktop 8=` |
+| `Alt + Shift + 9` | 「視窗」移到「工作空間 9」        | `Window to Desktop 9=` |
