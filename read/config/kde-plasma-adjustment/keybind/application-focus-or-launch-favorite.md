@@ -36,4 +36,5 @@ grand_parent: 設定
 
 * [工作空間切換](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/workspace-switch.html)
 * [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/window-move-to-workspace.html)
+* 通用鍵盤組合鍵操作 / [使用「上排數字鍵」相關的操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind/with-number-key)
 
