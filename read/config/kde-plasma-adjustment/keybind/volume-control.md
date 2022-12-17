@@ -30,6 +30,13 @@ grand_parent: 設定
 | `XF86AudioRaiseVolume` | 增加音量       | `increase_volume=` |
 
 
+| 按鍵組合          | 功能             | 執行指令                                    |
+| ----------------- | ---------------- | ------------------------------------------- |
+| `Fn + F9`         | 音量切換成靜音   | `mute=`     |
+| `Fn + F10` | 減小音量         | `decrease_volume=` |
+| `Fn + F11` | 增加音量         | `increase_volume=` |
+
+
 ## 麥克風音量控制
 
 * [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L36-L43)
