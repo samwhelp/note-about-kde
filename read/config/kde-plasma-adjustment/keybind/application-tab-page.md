@@ -25,7 +25,7 @@ grand_parent: 設定
 | `Alt + 9` | 切換到「Tab Page 9」 |
 
 
-> 大部分的應用程式，切換「Tab Page」，預設按鍵綁定是「Alt + 數字鍵」
+> 大部分的應用程式，切換「Tab Page」，預設按鍵綁定是「Alt + 數字鍵」。
 
 > 例如：firefox, terminal, mousepad ...
 

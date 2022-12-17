@@ -30,6 +30,7 @@ grand_parent: 設定
 | `Win + 9` | 聚焦或開啟「應用程式 9」              | `activate task manager entry 9=` |
 
 
+> 關於「Win + 0」，用來綁定「[桌面恢復原來大小](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/desktop-control.html)」。
 
 
 ## 用法對照
