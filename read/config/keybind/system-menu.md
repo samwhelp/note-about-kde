@@ -34,7 +34,9 @@ grand_parent: 設定
 | `Win + Space`  | 顯示「桌面操作選單」 | `activate widget 3=` |
 
 
-> 只用「Win」顯示「開始功能表」的功能被我停用了。
+> 使用「Win鍵」顯示「開始功能表」的功能被我停用了。
+
+> 請參考『[停用「Win鍵」開啟「開始功能表」](https://samwhelp.github.io/note-about-kde/read/howto/disable-opening-application-launcher-with-super-key.html)』
 
 
 ## 顯示「顯示所有開啟視窗」
