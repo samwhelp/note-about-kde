@@ -29,13 +29,8 @@ grand_parent: 設定
 | `Monitor Brightness Up` | 增加螢幕亮度       | `Increase Screen Brightness=` |
 
 
-## 麥克風音量控制
-
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L36-L43)
 
 
-| 按鍵組合          | 功能             | 執行指令                                    |
-| ----------------- | ---------------- | ------------------------------------------- |
-| `Alt + Ctrl + m`         | 麥克風音量切換成靜音   | `mic_mute`     |
-| `Alt + Ctrl + <` | 麥克風減小音量         | `decrease_microphone_volume=` |
-| `Alt + Ctrl + >` | 麥克風增加音量         | `increase_microphone_volume=` |
+## 用法對照
+
+* [音量控制](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/volume-control.html)

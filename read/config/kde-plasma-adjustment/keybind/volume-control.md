@@ -40,3 +40,11 @@ grand_parent: 設定
 | `Alt + Ctrl + m`         | 麥克風音量切換成靜音   | `mic_mute`     |
 | `Alt + Ctrl + <` | 麥克風減小音量         | `decrease_microphone_volume=` |
 | `Alt + Ctrl + >` | 麥克風增加音量         | `increase_microphone_volume=` |
+
+
+
+
+
+## 用法對照
+
+* [螢幕亮度控制](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/monitor-brightness-control.html)
