@@ -29,6 +29,11 @@ grand_parent: 設定
 | `Monitor Brightness Up` | 增加螢幕亮度       | `Increase Screen Brightness=` |
 
 
+| 按鍵組合               | 功能           | 執行指令                                    |
+| ---------------------- | -------------- | ------------------------------------------- |
+| `Fn + F5` | 減少螢幕亮度       | `Decrease Screen Brightness=` |
+| `Fn + F6` | 增加螢幕亮度       | `Increase Screen Brightness=` |
+| `Fn + F7` | 開啟或關閉螢幕       |  |
 
 
 ## 用法對照
