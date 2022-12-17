@@ -1,6 +1,6 @@
 ---
 title: 重新啟動 Plasma Systemd Service
-nav_order: 7042
+nav_order: 7000
 has_children: false
 parent: 如何
 ---
