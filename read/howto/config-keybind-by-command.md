@@ -59,7 +59,7 @@ systemctl --user start plasma-kglobalaccel.service
 
 ## 相關說明
 
-* [KDE Plasma Adjustment / 按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
+* [KDE Plasma Adjustment / 按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html)
 
 
 ## 圖形使用者介面程式
