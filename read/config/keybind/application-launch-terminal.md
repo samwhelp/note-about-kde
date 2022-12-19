@@ -39,7 +39,7 @@ grand_parent: 設定
 | `Win + F2` | 開啟 Terminal (Drop Down) | `yakuake` |
 | `Alt + Shift + y` | 開啟 Terminal (Drop Down) | `yakuake` |
 
-> 這個綁定，在「yakuak」沒有常駐，也能觸發。
+> 這個綁定，即使「yakuak」沒有常駐，也能觸發。
 
 
 * [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L308-L310)
