@@ -8,7 +8,7 @@ parent: 連結
 
 # XeroLinux
 
-* [XeroLinux](https://github.com/xerolinux) ([GitHub](https://github.com/xerolinux))
+* [XeroLinux](https://xerolinux.xyz/) ([GitHub](https://github.com/xerolinux))
 * XeroLinux / [Forum](https://forum.xerolinux.xyz)
 * YouTube / [XeroLinuxOfficial](https://www.youtube.com/c/XeroLinuxOfficial)
 

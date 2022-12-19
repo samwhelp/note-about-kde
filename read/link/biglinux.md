@@ -1,12 +1,12 @@
 ---
-title: Big Linux
+title: BigLinux
 nav_order: 9010
 has_children: false
 parent: 連結
 ---
 
 
-# Big Linux
+# BigLinux
 
 
 ## BigLinux
