@@ -32,6 +32,8 @@ parent: 設定
 
 還有參考另一篇「[如何設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
 
+> [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
+
 
 ## 系統操作
 
@@ -48,6 +50,7 @@ parent: 設定
 | [開啟 Terminal](keybind/application-launch-terminal) |
 | [開啟常用的應用程式](keybind/application-launch-favorite) |
 | [聚焦或開啟常用的應用程式](keybind/application-focus-or-launch-favorite) |
+| [使用 Rofi 開啟應用程式](keybind/application-launch-rofi) |
 
 
 ## 視窗操作
