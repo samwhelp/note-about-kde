@@ -19,7 +19,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能           | 執行指令              |
 | ----------------- | -------------- | ---------------------------- |
-| `Alt + Shift + w` | 顯示活動操作面板 | `manage activities=` |
+| `Alt + Shift + q` | 顯示活動操作面板 | `manage activities=` |
 | `Alt + grave` | 切換到上一個「活動(Activity)」 | `switch to previous activity=` |
 | `Win + Tab` | 切換到下一個「活動(Activity)」 | `switch to next activity=`  |
 

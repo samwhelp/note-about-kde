@@ -56,7 +56,6 @@ grand_parent: 設定
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Alt + F2`  | 執行 krunner | `krunner` |
-| `Alt + Shift + d`  | 執行 krunner | `krunner` |
 
 
 ## System Activity
