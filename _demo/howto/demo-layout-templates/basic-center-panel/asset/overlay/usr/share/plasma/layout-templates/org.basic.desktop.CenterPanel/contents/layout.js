@@ -1,9 +1,9 @@
 /**
  ** ## API
  **
- ** * https://develop.kde.org/docs/extend/plasma/scripting/api/
- ** * https://develop.kde.org/docs/extend/plasma/scripting/keys/
- ** * https://develop.kde.org/docs/extend/plasma/scripting/examples/
+ ** * https://develop.kde.org/docs/plasma/scripting/api/
+ ** * https://develop.kde.org/docs/plasma/scripting/keys/
+ ** * https://develop.kde.org/docs/plasma/scripting/examples/
  **
  **/
 

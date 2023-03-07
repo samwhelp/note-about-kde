@@ -41,7 +41,7 @@ systemctl --user status
 ## 相關連結
 
 * KDE / Wiki / [Plasma and the systemd boot](https://invent.kde.org/plasma/plasma-workspace/-/wikis/Plasma-and-the-systemd-boot)
-* KDE / Documentation / [KWin Scripting Tutorial](https://develop.kde.org/docs/extend/plasma/kwin/)
+* KDE / Documentation / [KWin Scripting Tutorial](https://develop.kde.org/docs/plasma/kwin/)
 
 
 
