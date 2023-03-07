@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 視窗移到指定工作空間
 
-> KDE Plasma Adjustment / [Keybind](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
+> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
 
 
 * [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L162-L181)

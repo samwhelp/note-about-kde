@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 切換輸入法
 
-> KDE Plasma Adjustment / [Keybind](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
+> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
 
 
 | 按鍵組合          | 功能           |

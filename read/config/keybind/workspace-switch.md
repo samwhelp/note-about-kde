@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 工作空間切換
 
-> KDE Plasma Adjustment / [Keybind](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind.html)
+> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
 
 
 ## 我個人定義的個工作空間
