@@ -38,4 +38,4 @@ grand_parent: 設定
 
 ## 用法對照
 
-* [音量控制](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/volume-control.html)
+* [音量控制](https://samwhelp.github.io/note-about-kde/read/config/keybind/volume-control.html)

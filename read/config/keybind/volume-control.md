@@ -54,4 +54,4 @@ grand_parent: 設定
 
 ## 用法對照
 
-* [螢幕亮度控制](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/monitor-brightness-control.html)
+* [螢幕亮度控制](https://samwhelp.github.io/note-about-kde/read/config/keybind/monitor-brightness-control.html)
