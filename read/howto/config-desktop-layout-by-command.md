@@ -49,4 +49,4 @@ qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.dumpCurrentLayoutJS
 
 ## 相關連結
 
-* KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/extend/plasma/)
+* KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)

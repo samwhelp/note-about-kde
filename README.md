@@ -8,7 +8,7 @@
 
 * [KDE](https://kde.org/)
 * KDE / [Documentation](https://develop.kde.org/docs/)
-* KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/extend/plasma/)
+* KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)
 
 
 ## 主題

@@ -54,7 +54,7 @@ systemctl --user start plasma-kglobalaccel.service
 
 ## 相關連結
 
-* KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/extend/plasma/)
+* KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)
 
 
 ## 相關說明
