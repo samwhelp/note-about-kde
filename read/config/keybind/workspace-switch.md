@@ -64,7 +64,7 @@ grand_parent: 設定
 
 ## 用法對照
 
-* [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/window-move-to-workspace.html)
-* [應用程式切換 Tab Page](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-tab-page.html)
-* [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-focus-or-launch-favorite.html)
-* 通用鍵盤組合鍵操作 / [使用「上排數字鍵」相關的操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind/with-number-key)
+> [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/window-move-to-workspace.html)
+> [應用程式切換 Tab Page](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-tab-page.html)
+> [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-focus-or-launch-favorite.html)
+> 通用鍵盤組合鍵操作 / [使用「上排數字鍵」相關的操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind/with-number-key)
