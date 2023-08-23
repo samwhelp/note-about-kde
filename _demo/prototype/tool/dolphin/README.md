@@ -21,13 +21,6 @@
 | [~/.local/share/kxmlgui5/dolphin/dolphinui.rc](./asset/overlay/etc/skel/.local/share/kxmlgui5/dolphin/dolphinui.rc) |
 
 
-## Debian Package
-
-| Debian Package |
-| --- |
-| [dolphin](https://packages.debian.org/sid/dolphin) |
-
-
 ## Howto
 
 

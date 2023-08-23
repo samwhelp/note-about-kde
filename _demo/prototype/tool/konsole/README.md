@@ -22,13 +22,6 @@
 | [~/.local/share/kxmlgui5/konsole/sessionui.rc](./asset/overlay/etc/skel/.local/share/kxmlgui5/konsole/sessionui.rc) |
 
 
-## Debian Package
-
-| Debian Package |
-| --- |
-| [konsole](https://packages.debian.org/sid/konsole) |
-
-
 ## Howto
 
 
