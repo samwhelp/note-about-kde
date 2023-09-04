@@ -26,7 +26,7 @@
 
 ## 如何
 
-| 文章 |
+| 議題 |
 | --- |
 | [設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html) |
 | [設定 Desktop Layout](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-by-command.html) |
