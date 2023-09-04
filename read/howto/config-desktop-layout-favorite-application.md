@@ -52,7 +52,7 @@ global=Alt+F1
 
 ``` ini
 [Containments][2][Applets][3][Configuration][General]
-favorites=applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,preferred://browser,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:pcmanfm-qt.desktop,applications:org.kde.konsole.desktop,applications:sublime_text.desktop,applications:sakura.desktop
+favorites=applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,preferred://browser,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:pcmanfm-qt.desktop,applications:sublime_text.desktop,applications:sakura.desktop
 favoritesDisplay=1
 favoritesPortedToKAstats=false
 ```
