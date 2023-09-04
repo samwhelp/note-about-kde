@@ -10,7 +10,7 @@ has_children: true
 
 ## Project
 
-* Config / [Tool](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool)
+* Config / [Tool](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool)
 
 
 ## Subject
@@ -25,9 +25,9 @@ has_children: true
 
 ## File Manager
 
-| [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) |
+| [File Manager](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager.html) |
 | --- |
-| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) |
+| [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) |
 
 
 ## Text Editor
@@ -38,9 +38,9 @@ has_children: true
 
 ## Terminal
 
-| [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
+| [Terminal](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal.html) |
 | --- |
-| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) |
+| [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) |
 
 
 ## Image Viewer
