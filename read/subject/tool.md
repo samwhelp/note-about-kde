@@ -32,6 +32,9 @@ has_children: true
 
 ## Text Editor
 
+| [Text Editor](https://samwhelp.github.io/note-about-kde/read/subject/tool/text-editor.html) | 微調腳本 |
+| --- | --- |
+| [kate](https://samwhelp.github.io/note-about-kde/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/kate) |
 
 ## Web Browser
 
