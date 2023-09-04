@@ -15,6 +15,7 @@
 
 * [如何](#如何)
 * [設定](#設定)
+* [工具](#工具)
 * [相關筆記](#相關筆記)
 
 
@@ -29,10 +30,20 @@
 | --- |
 | [設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html) |
 | [設定 Desktop Layout](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-by-command.html) |
+| [設定 Desktop Layout / Favorite Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-favorite-application.html) |
+| [設定 Desktop Layout / Launcher Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-launcher-application.html) |
 | [設定 Application Appearance](https://samwhelp.github.io/note-about-kde/read/howto/config-application-appearance-by-command.html) |
 | [設定 Wallpaper](https://samwhelp.github.io/note-about-kde/read/howto/config-wallpaper-by-command.html) |
 | [產生 layout-templates](https://samwhelp.github.io/note-about-kde/read/howto/create-layout-templates.html) |
 | [產生 look-and-feel](https://samwhelp.github.io/note-about-kde/read/howto/create-look-and-feel.html) |
+
+
+## 工具
+
+| 工具 | 分類 |
+| --- | --- |
+| [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) | 檔案管理器 |
+| [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) | Terminal |
 
 
 ## 相關筆記
