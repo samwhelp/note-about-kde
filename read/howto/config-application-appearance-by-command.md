@@ -1,6 +1,6 @@
 ---
 title: 設定 Application Appearance
-nav_order: 7021
+nav_order: 7023
 has_children: false
 parent: 如何
 ---
