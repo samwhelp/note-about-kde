@@ -40,10 +40,10 @@
 
 ## 工具
 
-| 工具 | 分類 |
-| --- | --- |
-| [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) | 檔案管理器 |
-| [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) | Terminal |
+| 工具 | 微調腳本 | 分類 |
+| --- | --- | --- |
+| [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/dolphin) | 檔案管理器 |
+| [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/konsole) | Terminal |
 
 
 ## 相關筆記
