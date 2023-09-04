@@ -42,9 +42,9 @@
 
 | 工具 | 微調腳本 | 分類 |
 | --- | --- | --- |
-| [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/dolphin) | File Manager |
-| [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/konsole) | Terminal |
-| [gwenview](https://samwhelp.github.io/note-about-kde/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/gwenview) | Image Viewer |
+| [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/dolphin) | [File Manager](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager.html) |
+| [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/konsole) | [Terminal](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal.html) |
+| [gwenview](https://samwhelp.github.io/note-about-kde/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-kde/read/subject/tool/image-viewer.html) |
 
 
 ## 相關筆記
