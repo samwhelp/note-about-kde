@@ -12,6 +12,7 @@ parent: 如何
 ## 相關連結
 
 * [設定 Desktop Layout](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-by-command.html)
+* [設定 Desktop Layout / Launcher Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-launcher-application.html)
 
 
 ## 完整範例
@@ -48,7 +49,7 @@ global=Alt+F1
 global=Alt+F1
 ```
 
-**關於 Favorite Application 設定的片段如下**
+**關於 Favorite Application 主要的設定片段如下**
 
 ``` ini
 [Containments][2][Applets][3][Configuration][General]
@@ -57,7 +58,7 @@ favoritesDisplay=1
 favoritesPortedToKAstats=false
 ```
 
-注意事項
+**注意事項**
 
 * 要將「`favoritesPortedToKAstats=false`」，這裡先設定「false」，觀察到「KDE Plasma」啟動後，會被自動設為「true」
 * 關於「favoritesDisplay=1」指的是「How to display favorites: 0 = Grid, 1 = List」，可以對照「layout-templates / contents/ [layout.js](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-layout-templates/basic-center-panel/asset/overlay/usr/share/plasma/layout-templates/org.basic.desktop.CenterPanel/contents/layout.js)」。

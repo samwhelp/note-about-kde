@@ -9,6 +9,12 @@ parent: 如何
 # 設定 Desktop Layout
 
 
+## 相關連結
+
+* [設定 Desktop Layout / Favorite Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-favorite-application.html)
+* [設定 Desktop Layout / Launcher Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-launcher-application.html)
+
+
 ## 參考步驟
 
 ``` sh
