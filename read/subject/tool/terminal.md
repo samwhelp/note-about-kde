@@ -10,4 +10,4 @@ parent: 工具
 
 | Terminal |
 | --- |
-| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) |
+| [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) |

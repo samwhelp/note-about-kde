@@ -10,4 +10,4 @@ parent: 工具
 
 | File Manager |
 | --- |
-| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) |
+| [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) |
