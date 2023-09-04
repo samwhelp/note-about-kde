@@ -12,3 +12,4 @@ has_children: true
 
 * KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)
 * Arch Wiki / [KDE](https://wiki.archlinux.org/title/KDE)
+* Debian Wiki / [KDE](https://wiki.debian.org/KDE)
