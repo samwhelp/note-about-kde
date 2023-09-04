@@ -9,11 +9,18 @@ parent: 如何
 # 設定按鍵綁定
 
 
+## 完整範例
+
+| 範例 |
+| --- |
+| [demo-keybind-by-kglobalshortcutsrc](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-keybind-config/demo-keybind-by-kglobalshortcutsrc) |
+
+
 ## 設定檔
 
 | 設定檔路徑 |
 | --- |
-| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc) |
+| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-keybind-config/demo-keybind-by-kglobalshortcutsrc/kglobalshortcutsrc) |
 
 
 ## 參考步驟
@@ -36,6 +43,20 @@ install -Dm644 "./kglobalshortcutsrc" "${HOME}/.config/kglobalshortcutsrc"
 systemctl --user start plasma-kglobalaccel.service
 ```
 
+## 相關說明
+
+* [KDE Plasma Adjustment / 按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html)
+
+
+## 圖形使用者介面程式
+
+* /usr/share/applications/kcm_keys.desktop
+
+``` sh
+systemsettings kcm_keys
+```
+
+
 ## 參考案例
 
 | 參考案例 |
@@ -57,15 +78,4 @@ systemctl --user start plasma-kglobalaccel.service
 * KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)
 
 
-## 相關說明
 
-* [KDE Plasma Adjustment / 按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html)
-
-
-## 圖形使用者介面程式
-
-* /usr/share/applications/kcm_keys.desktop
-
-``` sh
-systemsettings kcm_keys
-```
