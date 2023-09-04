@@ -98,10 +98,10 @@ kickoff.writeConfig("alphaSort", "true");
 kickoff.writeConfig("favoritesPortedToKAstats", "false"); //Are the favorites ported to use KActivitiesStats to allow per-activity favorites
 kickoff.writeConfig("favoritesDisplay", 0); //How to display favorites: 0 = Grid, 1 = List
 kickoff.writeConfig("favorites", [
-	"applications:pcmanfm-qt.desktop",
-	"applications:sublime_text.desktop",
+	"applications:org.kde.dolphin.desktop",
+	"applications:org.kde.kate.desktop",
 	"preferred://browser",
-	"applications:sakura.desktop",
+	"applications:org.kde.konsole.desktop",
 	"applications:systemsettings.desktop",
 	"applications:org.kde.discover.desktop"
 ]);
@@ -150,10 +150,10 @@ icontasks.writeConfig("wheelSkipMinimized", false);
 
 
 icontasks.writeConfig("launchers", [
-	"applications:pcmanfm-qt.desktop",
-	"applications:sublime_text.desktop",
+	"applications:org.kde.dolphin.desktop",
+	"applications:org.kde.kate.desktop",
 	"preferred://browser",
-	"applications:sakura.desktop",
+	"applications:org.kde.konsole.desktop",
 	"applications:systemsettings.desktop",
 	"applications:org.kde.discover.desktop"
 ]);

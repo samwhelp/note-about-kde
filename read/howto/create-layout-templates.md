@@ -11,9 +11,9 @@ parent: 如何
 
 ## 實作案例
 
-| 實作案例 |
-| --- |
-| [basic-center-panel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-layout-templates/basic-center-panel) |
+| 實作案例 | Config File Path |
+| --- | --- |
+| [basic-center-panel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-layout-templates/basic-center-panel) | [/usr/share/plasma/layout-templates/org.basic.desktop.CenterPanel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-layout-templates/basic-center-panel/asset/overlay/usr/share/plasma/layout-templates/org.basic.desktop.CenterPanel) |
 
 
 ## 相關連結
