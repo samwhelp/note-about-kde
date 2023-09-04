@@ -11,8 +11,9 @@ parent: 如何
 
 ## 相關連結
 
-* [設定 Desktop Layout](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-by-command.html)
-* [設定 Desktop Layout / Launcher Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-launcher-application.html)
+* [如何 / 設定 Desktop Layout](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-by-command.html)
+* [如何 / 設定 Desktop Layout / Launcher Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-launcher-application.html)
+* [如何 / 產生 layout-templates](https://samwhelp.github.io/note-about-kde/read/howto/create-layout-templates.html)
 
 
 ## 完整範例

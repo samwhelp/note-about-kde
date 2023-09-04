@@ -20,3 +20,10 @@ parent: 如何
 
 * KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)
 * KDE / Documentation / [Plasma Desktop Scripting](https://develop.kde.org/docs/plasma/scripting/) / [Templates](https://develop.kde.org/docs/plasma/scripting/templates/)
+
+
+## 相關議題
+
+* [如何 / 設定 Desktop Layout](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-by-command.html)
+* [如何 / 設定 Desktop Layout / Favorite Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-favorite-application.html)
+* [如何 / 設定 Desktop Layout / Launcher Application](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-launcher-application.html)
