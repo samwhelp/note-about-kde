@@ -96,7 +96,7 @@ kickoff.writeConfig("alphaSort", "true");
 
 
 kickoff.writeConfig("favoritesPortedToKAstats", "false"); //Are the favorites ported to use KActivitiesStats to allow per-activity favorites
-kickoff.writeConfig("favoritesDisplay", 0); //How to display favorites: 0 = Grid, 1 = List
+kickoff.writeConfig("favoritesDisplay", 1); //How to display favorites: 0 = Grid, 1 = List
 kickoff.writeConfig("favorites", [
 	"applications:org.kde.dolphin.desktop",
 	"applications:org.kde.kate.desktop",
