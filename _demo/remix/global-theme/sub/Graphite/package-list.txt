@@ -1,14 +1,14 @@
 
 
 ##
-## # gruvbox-theme
+## # global-theme
 ##
 
 
 
 
 ##
-## ## Package / gruvbox
+## ## Package / global-theme
 ##
 
-#gruvbox
+#global-theme

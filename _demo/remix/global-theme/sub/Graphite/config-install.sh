@@ -4,28 +4,28 @@ set -e
 
 
 ################################################################################
-### Head: gruvbox
+### Head: global_theme
 ##
 
-gruvbox_config_install () {
+global_theme_config_install () {
 
 	echo
 	echo "##"
-	echo "## Config: gruvbox"
+	echo "## Config: global_theme"
 	echo "##"
 	echo
 
 
-	gruvbox_config_install_by_dir
+	global_theme_config_install_by_dir
 
-	#gruvbox_config_install_by_each_file
+	#global_theme_config_install_by_each_file
 
 
 	echo
 
 }
 
-gruvbox_config_install_by_dir () {
+global_theme_config_install_by_dir () {
 
 
 	echo
@@ -41,7 +41,7 @@ gruvbox_config_install_by_dir () {
 
 }
 
-gruvbox_config_install_by_each_file () {
+global_theme_config_install_by_each_file () {
 
 	return 0
 
@@ -50,18 +50,18 @@ gruvbox_config_install_by_each_file () {
 	mkdir -p "${HOME}/.config"
 
 	echo
-	echo "mkdir -p ${HOME}/.local/share/gruvbox"
-	mkdir -p "${HOME}/.local/share/gruvbox"
+	echo "mkdir -p ${HOME}/.local/share/global_theme"
+	mkdir -p "${HOME}/.local/share/global_theme"
 
 	echo
-	echo "install -Dm644 ./asset/overlay/etc/skel/.local/share/gruvbox/Main.colorscheme ${HOME}/.local/share/gruvbox/Main.colorscheme"
-	install -Dm644 "./asset/overlay/etc/skel/.local/share/gruvbox/Main.colorscheme" "${HOME}/.local/share/gruvbox/Main.colorscheme"
+	echo "install -Dm644 ./asset/overlay/etc/skel/.local/share/global_theme/Main.colorscheme ${HOME}/.local/share/global_theme/Main.colorscheme"
+	install -Dm644 "./asset/overlay/etc/skel/.local/share/global_theme/Main.colorscheme" "${HOME}/.local/share/global_theme/Main.colorscheme"
 
 
 }
 
 ##
-### Tail: gruvbox
+### Tail: global_theme
 ################################################################################
 
 
@@ -71,7 +71,7 @@ gruvbox_config_install_by_each_file () {
 
 main_config_install () {
 
-	gruvbox_config_install
+	global_theme_config_install
 
 }
 

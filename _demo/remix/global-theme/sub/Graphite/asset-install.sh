@@ -4,17 +4,17 @@ set -e
 
 
 ################################################################################
-### Head: gruvbox
+### Head: global_theme
 ##
 
-gruvbox_asset_install () {
+global_theme_asset_install () {
 
 	echo
 	echo
 	echo
 	echo
 	echo "##"
-	echo "## Asset: gruvbox"
+	echo "## Asset: global_theme"
 	echo "##"
 	echo
 
@@ -28,7 +28,7 @@ gruvbox_asset_install () {
 
 
 ##
-### Tail: gruvbox
+### Tail: global_theme
 ################################################################################
 
 
@@ -38,7 +38,7 @@ gruvbox_asset_install () {
 
 main_asset_install () {
 
-	gruvbox_asset_install
+	global_theme_asset_install
 
 }
 
