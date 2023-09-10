@@ -1,5 +1,11 @@
 {
     "KPlugin": {
+        "Id": "as.graphite-nord-dark.center-panel.desktop",
+        "Name": "As-Graphite-Nord-Dark",
+        "Description": "Graphite-Nord-Dark / CenterPanel / KDE Desktop",
+        "Website": "https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite",
+        "Version": "2.0",
+        "License": "MIT",
         "Authors": [
             {
                 "Email": "basic-developer@home.org",
@@ -10,16 +16,10 @@
                 "Name": "Home Developer"
             }
         ],
-        "Category": "",
-        "Description": "Graphite-Nord-Dark / CenterPanel / KDE Desktop",
-        "Id": "as.graphite-nord-dark.center-panel.desktop",
-        "License": "MIT",
-        "Name": "As-Graphite-Nord-Dark",
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
-        "Version": "2.0",
-        "Website": "https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite"
+        "Category": ""
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
     "Keywords[ca@valencia]": "Escriptori;Espai de treball;Aparença;Aparença i comportament;Eixida;Bloqueig;Suspensió;Aturada;Hibernació;",
