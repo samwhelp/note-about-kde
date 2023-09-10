@@ -1,3 +1,3 @@
 
 
-# gruvbox-theme
+# global-theme
