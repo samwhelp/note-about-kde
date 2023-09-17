@@ -28,3 +28,10 @@ parent: 如何
 | [Breeze Active Accent Light](https://store.kde.org/p/1709554) |
 | [Breeze Active Accent Dusk](https://store.kde.org/p/1709569) |
 | [Breeze Active Accent Dark](https://store.kde.org/p/1709567) |
+
+
+## Breeze Aurorae
+
+| aurorae-theme | GitHub |
+| --- | --- |
+| [Breeze Aurorae](https://store.kde.org/p/1461072/) | [GitHub]() |
