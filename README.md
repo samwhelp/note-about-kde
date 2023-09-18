@@ -45,7 +45,7 @@
 | --- | --- | --- |
 | [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/dolphin) | [File Manager](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager.html) |
 | [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/konsole) | [Terminal](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal.html) |
-| [kate](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/kate.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/kate) | [Text Editor](https://samwhelp.github.io/note-about-kde/read/subject/tool/text-editor.html) |
+| [kate](https://samwhelp.github.io/note-about-kde/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/kate) | [Text Editor](https://samwhelp.github.io/note-about-kde/read/subject/tool/text-editor.html) |
 | [gwenview](https://samwhelp.github.io/note-about-kde/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-kde/read/subject/tool/image-viewer.html) |
 
 
