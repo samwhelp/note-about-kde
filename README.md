@@ -36,6 +36,7 @@
 | [設定 Wallpaper](https://samwhelp.github.io/note-about-kde/read/howto/config-wallpaper-by-command.html) |
 | [產生 layout-templates](https://samwhelp.github.io/note-about-kde/read/howto/create-layout-templates.html) |
 | [產生 look-and-feel](https://samwhelp.github.io/note-about-kde/read/howto/create-look-and-feel.html) |
+| [產生 aurorae-theme](https://samwhelp.github.io/note-about-kde/read/howto/create-aurorae-theme.html) |
 
 
 ## 工具
