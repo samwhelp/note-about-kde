@@ -54,6 +54,7 @@
 ## 相關筆記
 
 * [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
+* [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
 * [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
 * [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
 * [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) ([GitHub](https://github.com/samwhelp/note-about-xerolinux/))
