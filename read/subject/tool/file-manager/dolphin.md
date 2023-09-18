@@ -40,3 +40,8 @@ grand_parent: 工具
 | Config File Path |
 | --- |
 | [~/.local/share/kxmlgui5/dolphin/dolphinui.rc](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/dolphin/asset/overlay/etc/skel/.local/share/kxmlgui5/dolphin/dolphinui.rc) |
+
+
+## Link
+
+* KDE / Documentation / Applications / [Dolphin](https://develop.kde.org/docs/apps/dolphin/) / [Creating Dolphin Service Menus](https://develop.kde.org/docs/apps/dolphin/service-menus/)
