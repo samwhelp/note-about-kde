@@ -26,7 +26,7 @@
 
 ## 如何
 
-| 議題 |
+| [如何](https://samwhelp.github.io/note-about-kde/read/howto.html) |
 | --- |
 | [設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html) |
 | [設定 Desktop Layout](https://samwhelp.github.io/note-about-kde/read/howto/config-desktop-layout-by-command.html) |
@@ -41,7 +41,7 @@
 
 ## 工具
 
-| 工具 | 微調腳本 | 分類 |
+| [工具](https://samwhelp.github.io/note-about-kde/read/subject/tool.html) | 微調腳本 | 分類 |
 | --- | --- | --- |
 | [dolphin](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/dolphin) | [File Manager](https://samwhelp.github.io/note-about-kde/read/subject/tool/file-manager.html) |
 | [konsole](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool/konsole) | [Terminal](https://samwhelp.github.io/note-about-kde/read/subject/tool/terminal.html) |
