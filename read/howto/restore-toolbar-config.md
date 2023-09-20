@@ -11,7 +11,7 @@ parent: 如何
 
 ## Config File Path
 
-* ~/.local/share/kxmlgui5/
+* [~/.local/share/kxmlgui5](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.local/share/kxmlgui5)
 
 | 工具 | Config File Path |
 | --- | --- |
