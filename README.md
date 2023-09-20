@@ -59,6 +59,7 @@
 * [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
 * [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) ([GitHub](https://github.com/samwhelp/note-about-xerolinux/))
 * [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) ([GitHub](https://github.com/samwhelp/note-about-nitrux/))
+* [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) ([GitHub](https://github.com/samwhelp/note-about-debian/))
 * [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) ([GitHub](https://github.com/samwhelp/note-about-ubuntu/))
 
 
