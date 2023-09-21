@@ -11,9 +11,9 @@ parent: 如何
 
 ## 範例
 
-| 範例 |
-| --- |
-| [breeze-dark-center-panel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-look-and-feel/breeze-dark-center-panel) |
+| 範例 | Config File Path |
+| --- | --- |
+| [breeze-dark-center-panel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-look-and-feel/breeze-dark-center-panel) | [/usr/share/plasma/look-and-feel/basic.breeze-dark-center-panel.desktop](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-look-and-feel/breeze-dark-center-panel/asset/overlay/usr/share/plasma/look-and-feel/basic.breeze-dark-center-panel.desktop) |
 
 
 ## 實作案例
