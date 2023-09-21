@@ -18,9 +18,11 @@ parent: 如何
 
 ## 實作案例
 
-| 實作案例 |
-| --- |
 | [remix-global-theme](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub) |
+| --- |
+| [Graphite](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/Graphite) |
+| [Neonyt](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/Neonyt) |
+| [SimplyCircles](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/SimplyCircles) |
 
 
 ## 相關連結
