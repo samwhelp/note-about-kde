@@ -2,7 +2,6 @@
 
 # global-theme
 
-
 | global-theme |
 | --- |
 | [as.neonyt-dark.center-panel.desktop](asset/overlay/etc/skel/.local/share/plasma/look-and-feel/as.neonyt-dark.center-panel.desktop) |
