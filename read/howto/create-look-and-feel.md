@@ -9,11 +9,18 @@ parent: 如何
 # 產生 look-and-feel
 
 
+## 範例
+
+| 範例 |
+| --- |
+| [breeze-dark-center-panel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-look-and-feel/breeze-dark-center-panel) |
+
+
 ## 實作案例
 
 | 實作案例 |
 | --- |
-| [breeze-dark-center-panel](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/howto/demo-look-and-feel/breeze-dark-center-panel) |
+| [remix-global-theme](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub) |
 
 
 ## 相關連結
