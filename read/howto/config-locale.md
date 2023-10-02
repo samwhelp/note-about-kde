@@ -63,7 +63,7 @@ sudo sh -c 'echo "LANG=\"zh_TW.UTF-8\"" > /etc/default/locale'
 | 語系 | 設定檔路徑 |
 | --- | --- |
 | [en_US](#en_us-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-locale-config/en_us/asset/overlay/etc/skel/.config/plasma-localerc) |
-| [zh_TW](#zh_tw-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-locale-config/zh_TW/asset/overlay/etc/skel/.config/plasma-localerc) |
+| [zh_TW](#zh_tw-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-locale-config/zh_tw/asset/overlay/etc/skel/.config/plasma-localerc) |
 
 
 ### en_US
