@@ -13,12 +13,12 @@ parent: 基礎工具
 
 | 基礎工具 |
 | --- |
-| [plasma-apply-lookandfeel](kde-plasma-workspace/plasma-apply-lookandfeel) |
-| [plasma-apply-desktoptheme](kde-plasma-workspace/plasma-apply-desktoptheme) |
-| [plasma-apply-colorscheme](kde-plasma-workspace/plasma-apply-colorscheme) |
-| [plasma-apply-cursortheme](kde-plasma-workspace/plasma-apply-cursortheme) |
-| [plasma-apply-wallpaperimage](kde-plasma-workspace/plasma-apply-wallpaperimage) |
-| [ksplashqml](kde-plasma-workspace/ksplashqml) |
+| [plasma-apply-lookandfeel](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-lookandfeel.html) |
+| [plasma-apply-desktoptheme](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-desktoptheme.html) |
+| [plasma-apply-colorscheme](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-colorscheme.html) |
+| [plasma-apply-cursortheme](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-cursortheme.html) |
+| [plasma-apply-wallpaperimage](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-wallpaperimage.html) |
+| [ksplashqml](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/ksplashqml.html) |
 
 
 ## 探索 / Debian

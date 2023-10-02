@@ -13,7 +13,7 @@ parent: 基礎工具
 
 | 設定工具 |
 | --- |
-| [systemsettings](kde-systemsettings/systemsettings) |
+| [systemsettings](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-systemsettings/systemsettings.html) |
 
 
 ## 探索 / Debian
