@@ -8,6 +8,16 @@ parent: 輔助工具
 
 # 輔助工具
 
+| 輔助工具 |
+| --- |
+| [plasma-apply-lookandfeel](kde/plasma-apply-lookandfeel) |
+| [plasma-apply-desktoptheme](kde/plasma-apply-desktoptheme) |
+| [plasma-apply-colorscheme](kde/plasma-apply-colorscheme) |
+| [plasma-apply-cursortheme](kde/plasma-apply-cursortheme) |
+| [plasma-apply-wallpaperimage](kde/plasma-apply-wallpaperimage) |
+| [ksplashqml](kde/ksplashqml) |
+
+
 ## 探索 / Debian
 
 執行
