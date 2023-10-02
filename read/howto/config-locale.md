@@ -24,35 +24,34 @@ parent: 如何
 
 | 語系 | 設定檔路徑 |
 | --- | --- |
-| en_US | [/etc/default/locale](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma/asset/overlay/etc/default/locale) |
-| zh_TW | /etc/default/locale |
-
-
-## 設定片段
+| [en_US](#en_us) | [/etc/default/locale](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma/asset/overlay/etc/default/locale) |
+| [zh_TW](#zh_tw) | /etc/default/locale |
 
 
 ### en_US
+
+以下是「/etc/default/locale」的「設定片段」
 
 ``` sh
 LANG=en_US.UTF-8
 ```
 
-### zh_TW
-
-``` sh
-LANG=zh_TW.UTF-8
-```
-
-## 指令操作
-
-
-### zh_TW
+指令操作
 
 ``` sh
 sudo sh -c 'echo "LANG=\"en_US.UTF-8\"" > /etc/default/locale'
 ```
 
+
 ### zh_TW
+
+以下是「/etc/default/locale」的「設定片段」
+
+``` sh
+LANG=zh_TW.UTF-8
+```
+
+指令操作
 
 ``` sh
 sudo sh -c 'echo "LANG=\"zh_TW.UTF-8\"" > /etc/default/locale'
@@ -67,10 +66,9 @@ sudo sh -c 'echo "LANG=\"zh_TW.UTF-8\"" > /etc/default/locale'
 | zh_TW | [~/.config/plasma-localerc](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/zh_tw/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.config/plasma-localerc#L1-L5) |
 
 
-## 設定片段
-
-
 ### en_US
+
+以下是「~/.config/plasma-localerc」的「設定片段」
 
 ``` ini
 [Formats]
@@ -82,6 +80,8 @@ LANGUAGE=en_US
 
 
 ### zh_TW
+
+以下是「~/.config/plasma-localerc」的「設定片段」
 
 ``` ini
 [Formats]
