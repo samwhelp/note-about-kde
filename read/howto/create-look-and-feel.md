@@ -33,4 +33,4 @@ parent: 如何
 
 ## 輔助工具
 
-* [plasma-apply-lookandfeel.html](https://samwhelp.github.io/note-about-kde/read/subject/util/kde/plasma-apply-lookandfeel.html)
+* [plasma-apply-lookandfeel.html](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-lookandfeel.html)
