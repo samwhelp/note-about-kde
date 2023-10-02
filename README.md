@@ -15,6 +15,7 @@
 
 * [如何](#如何)
 * [設定](#設定)
+* [設定工具](#設定工具)
 * [基礎工具](#基礎工具)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
@@ -38,6 +39,13 @@
 | [產生 layout-templates](https://samwhelp.github.io/note-about-kde/read/howto/create-layout-templates.html) |
 | [產生 look-and-feel](https://samwhelp.github.io/note-about-kde/read/howto/create-look-and-feel.html) |
 | [產生 aurorae-theme](https://samwhelp.github.io/note-about-kde/read/howto/create-aurorae-theme.html) |
+
+
+## 設定工具
+
+| 設定工具 |
+| --- |
+| [systemsettings](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-systemsettings/systemsettings.html) |
 
 
 ## 基礎工具
