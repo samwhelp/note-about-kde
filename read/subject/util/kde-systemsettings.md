@@ -9,6 +9,13 @@ parent: 基礎工具
 # kde-systemsettings
 
 
+## 設定工具
+
+| 設定工具 |
+| --- |
+| [systemsettings](kde-systemsettings/systemsettings) |
+
+
 ## 探索 / Debian
 
 
