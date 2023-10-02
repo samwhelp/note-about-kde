@@ -62,8 +62,8 @@ sudo sh -c 'echo "LANG=\"zh_TW.UTF-8\"" > /etc/default/locale'
 
 | 語系 | 設定檔路徑 |
 | --- | --- |
-| en_US | [~/.config/plasma-localerc](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.config/plasma-localerc#L1-L5) |
-| zh_TW | [~/.config/plasma-localerc](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/zh_tw/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.config/plasma-localerc#L1-L5) |
+| [en_US](#en_us-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.config/plasma-localerc#L1-L5) |
+| [zh_TW](#zh_tw-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/zh_tw/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.config/plasma-localerc#L1-L5) |
 
 
 ### en_US
