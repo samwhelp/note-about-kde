@@ -2,7 +2,7 @@
 title: plasma-apply-colorscheme
 nav_order: 3013
 has_children: false
-parent: KDE
+parent: kde-plasma-workspace
 grand_parent: 輔助工具
 ---
 

@@ -2,7 +2,7 @@
 title: ksplashqml
 nav_order: 3020
 has_children: false
-parent: KDE
+parent: kde-plasma-workspace
 grand_parent: 輔助工具
 ---
 
