@@ -10,12 +10,12 @@ parent: 輔助工具
 
 | 輔助工具 |
 | --- |
-| [plasma-apply-lookandfeel](kde/plasma-apply-lookandfeel) |
-| [plasma-apply-desktoptheme](kde/plasma-apply-desktoptheme) |
-| [plasma-apply-colorscheme](kde/plasma-apply-colorscheme) |
-| [plasma-apply-cursortheme](kde/plasma-apply-cursortheme) |
-| [plasma-apply-wallpaperimage](kde/plasma-apply-wallpaperimage) |
-| [ksplashqml](kde/ksplashqml) |
+| [plasma-apply-lookandfeel](kde-plasma-workspace/plasma-apply-lookandfeel) |
+| [plasma-apply-desktoptheme](kde-plasma-workspace/plasma-apply-desktoptheme) |
+| [plasma-apply-colorscheme](kde-plasma-workspace/plasma-apply-colorscheme) |
+| [plasma-apply-cursortheme](kde-plasma-workspace/plasma-apply-cursortheme) |
+| [plasma-apply-wallpaperimage](kde-plasma-workspace/plasma-apply-wallpaperimage) |
+| [ksplashqml](kde-plasma-workspace/ksplashqml) |
 
 
 ## 探索 / Debian
