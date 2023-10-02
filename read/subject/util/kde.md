@@ -2,11 +2,11 @@
 title: KDE
 nav_order: 3010
 has_children: true
-parent: 核心工具
+parent: 輔助工具
 ---
 
 
-# 核心工具
+# 輔助工具
 
 ## 探索 / Debian
 
