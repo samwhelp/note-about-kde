@@ -29,3 +29,8 @@ parent: 如何
 
 * KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)
 * KDE / Documentation / [Plasma Theme Tutorial](https://develop.kde.org/docs/plasma/theme/)
+
+
+## 核心工具
+
+* [plasma-apply-lookandfeel.html](https://samwhelp.github.io/note-about-kde/read/subject/util/kde/plasma-apply-lookandfeel.html)
