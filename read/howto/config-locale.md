@@ -24,8 +24,8 @@ parent: 如何
 
 | 語系 | 設定檔路徑 |
 | --- | --- |
-| [en_US](#en_us) | [/etc/default/locale](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma/asset/overlay/etc/default/locale) |
-| [zh_TW](#zh_tw) | /etc/default/locale |
+| [en_US](#en_us) | [/etc/default/locale](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-locale-config/en_us/asset/overlay/etc/default/locale) |
+| [zh_TW](#zh_tw) | [/etc/default/locale](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-locale-config/zh_tw/asset/overlay/etc/default/locale) |
 
 
 ### en_US
@@ -62,8 +62,8 @@ sudo sh -c 'echo "LANG=\"zh_TW.UTF-8\"" > /etc/default/locale'
 
 | 語系 | 設定檔路徑 |
 | --- | --- |
-| [en_US](#en_us-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.config/plasma-localerc#L1-L5) |
-| [zh_TW](#zh_tw-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/eznixos-adjustment-iso-profile/blob/main/debian-12/start/locale/zh_tw/eznixos-adjustment-kde-plasma/asset/overlay/etc/skel/.config/plasma-localerc#L1-L5) |
+| [en_US](#en_us-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-locale-config/en_us/asset/overlay/etc/skel/.config/plasma-localerc) |
+| [zh_TW](#zh_tw-1) | [~/.config/plasma-localerc](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/howto/demo-locale-config/zh_TW/asset/overlay/etc/skel/.config/plasma-localerc) |
 
 
 ### en_US
