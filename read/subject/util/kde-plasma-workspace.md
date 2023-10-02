@@ -2,13 +2,13 @@
 title: kde-plasma-workspace
 nav_order: 3010
 has_children: true
-parent: 輔助工具
+parent: 基礎工具
 ---
 
 
-# 輔助工具
+# 基礎工具
 
-| 輔助工具 |
+| 基礎工具 |
 | --- |
 | [plasma-apply-lookandfeel](kde-plasma-workspace/plasma-apply-lookandfeel) |
 | [plasma-apply-desktoptheme](kde-plasma-workspace/plasma-apply-desktoptheme) |

@@ -3,7 +3,7 @@ title: plasma-apply-cursortheme
 nav_order: 3014
 has_children: false
 parent: kde-plasma-workspace
-grand_parent: 輔助工具
+grand_parent: 基礎工具
 ---
 
 
