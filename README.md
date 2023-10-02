@@ -15,6 +15,7 @@
 
 * [如何](#如何)
 * [設定](#設定)
+* [基礎工具](#基礎工具)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
 
@@ -37,6 +38,18 @@
 | [產生 layout-templates](https://samwhelp.github.io/note-about-kde/read/howto/create-layout-templates.html) |
 | [產生 look-and-feel](https://samwhelp.github.io/note-about-kde/read/howto/create-look-and-feel.html) |
 | [產生 aurorae-theme](https://samwhelp.github.io/note-about-kde/read/howto/create-aurorae-theme.html) |
+
+
+## 基礎工具
+
+| 基礎工具 |
+| --- |
+| [plasma-apply-lookandfeel](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-lookandfeel.html) |
+| [plasma-apply-desktoptheme](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-desktoptheme.html) |
+| [plasma-apply-colorscheme](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-colorscheme.html) |
+| [plasma-apply-cursortheme](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-cursortheme.html) |
+| [plasma-apply-wallpaperimage](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-wallpaperimage.html) |
+| [ksplashqml](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/ksplashqml.html) |
 
 
 ## 工具
