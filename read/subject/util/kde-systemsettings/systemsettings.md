@@ -165,3 +165,8 @@ grep '^Exec' /usr/share/applications/kcm_lookandfeel.desktop
 ```
 Exec=systemsettings kcm_lookandfeel
 ```
+
+
+### kcm_sddm
+
+[systemsettings kcm_sddm](https://samwhelp.github.io/note-about-sddm/read/command/systemsettings.html)
