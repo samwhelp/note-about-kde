@@ -41,6 +41,12 @@
 | [產生 aurorae-theme](https://samwhelp.github.io/note-about-kde/read/howto/create-aurorae-theme.html) |
 
 
+| [SDDM](https://samwhelp.github.io/note-about-sddm/read/howto.html) |
+| --- |
+| [SDDM 設定目前採用的佈景主題](https://samwhelp.github.io/note-about-sddm/read/howto/config-current-theme.html) |
+| [SDDM 設定自動登入](https://samwhelp.github.io/note-about-sddm/read/howto/config-auto-login.html) |
+
+
 ## 設定工具
 
 | 設定工具 |
@@ -75,7 +81,9 @@
 
 ## 相關筆記
 
+
 * [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
+* [SDDM 探索筆記](https://samwhelp.github.io/note-about-sddm/) ([GitHub](https://github.com/samwhelp/note-about-sddm/))
 * [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
 * [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
 * [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
