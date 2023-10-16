@@ -1,0 +1,18 @@
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                               Version      Architecture Description
++++-==================================-============-============-============================================================================
+ii  kde-config-cddb:amd64              4:22.12.3-1  amd64        CDDB retrieval configuration
+ii  kde-config-cron                    4:22.12.3-1  amd64        program scheduler frontend
+ii  kde-config-fcitx5                  5.0.16-1     amd64        KDE configuration module for Fcitx5
+un  kde-config-flatpak                 <none>       <none>       (no description available)
+ii  kde-config-gtk-style:amd64         4:5.27.5-2   amd64        KDE configuration module for GTK+ 2.x and GTK+ 3.x styles selection
+ii  kde-config-gtk-style-preview:amd64 4:5.27.5-2   amd64        KDE configuration module for GTK+ 2.x and GTK+ 3.x styles selection (extras)
+ii  kde-config-mailtransport:amd64     22.12.3-1    amd64        mail transport service KCM
+ii  kde-config-screenlocker            5.27.5-2     amd64        KCM Module for kscreenlocker
+ii  kde-config-sddm                    4:5.27.5-2   amd64        KCM module for SDDM
+un  kde-config-systemd                 <none>       <none>       (no description available)
+un  kde-config-telepathy-accounts      <none>       <none>       (no description available)
+un  kde-config-touchpad                <none>       <none>       (no description available)
+ii  kde-config-updates                 5.27.5-2     amd64        Unattended updates configuration
