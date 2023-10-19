@@ -1,8 +1,8 @@
 {
     "KPlugin": {
-        "Id": "alt.neonyt-dark.neon-knights.center-panel.desktop",
-        "Name": "Alt-Neonyt-Dark-NeonKnights",
-        "Description": "Neonyt-Dark / Neon-Knights-Icon / CenterPanel / KDE Desktop",
+        "Id": "theme-neonyt-dark.deco-active-accent.center-panel.desktop",
+        "Name": "Neonyt-Dark-ActiveAccent",
+        "Description": "Neonyt-Dark / Neonyt-Dark-Icon / ActiveAccentFrame-Deco / CenterPanel / KDE Desktop",
         "Website": "https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite",
         "Version": "2.0",
         "License": "MIT",
