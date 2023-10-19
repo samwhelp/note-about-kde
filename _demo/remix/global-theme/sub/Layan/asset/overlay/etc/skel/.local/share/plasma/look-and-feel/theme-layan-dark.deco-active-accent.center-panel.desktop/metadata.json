@@ -1,8 +1,8 @@
 {
     "KPlugin": {
-        "Id": "alt.layan-light.neon-knights.center-panel.desktop",
-        "Name": "Alt-Layan-Light-NeonKnights",
-        "Description": "Layan-Light / NeonKnights-Icon / CenterPanel / KDE Desktop",
+        "Id": "theme-layan-dark.deco-active-accent.center-panel.desktop",
+        "Name": "Layan-Dark-ActiveAccent",
+        "Description": "Layan-Dark / ActiveAccentFrame-Deco / CenterPanel / KDE Desktop",
         "Website": "https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan",
         "Version": "2.0",
         "License": "MIT",

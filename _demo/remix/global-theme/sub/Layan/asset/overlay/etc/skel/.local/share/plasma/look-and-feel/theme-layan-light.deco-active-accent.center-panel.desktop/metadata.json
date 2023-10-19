@@ -1,8 +1,8 @@
 {
     "KPlugin": {
-        "Id": "frame.layan-dark.center-panel.desktop",
-        "Name": "Frame-Layan-Dark",
-        "Description": "Layan-Dark / ActiveAccentFrame / CenterPanel / KDE Desktop",
+        "Id": "theme-layan-light.deco-active-accent.center-panel.desktop",
+        "Name": "Layan-Light-ActiveAccent",
+        "Description": "Layan-Light / ActiveAccentFrame-Deco / CenterPanel / KDE Desktop",
         "Website": "https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan",
         "Version": "2.0",
         "License": "MIT",
