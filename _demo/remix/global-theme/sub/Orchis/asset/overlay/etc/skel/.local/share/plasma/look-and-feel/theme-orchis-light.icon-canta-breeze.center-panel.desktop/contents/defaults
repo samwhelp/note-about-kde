@@ -2,13 +2,13 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=OrchisLight
+ColorScheme=Orchis
 
 [kdeglobals][Icons]
 Theme=Canta-Breeze-Light
 
 [plasmarc][Theme]
-name=Orchis-light
+name=Orchis
 
 [Wallpaper]
 Image=Next
@@ -26,7 +26,7 @@ LayoutName=org.kde.breeze.desktop
 ButtonsOnLeft=
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Orchis-light
+theme=__aurorae__svg__Orchis
 
 [KSplash]
-Theme=com.github.vinceliuice.Orchis-light
+Theme=com.github.vinceliuice.Orchis
