@@ -2,13 +2,13 @@
 widgetStyle=kvantum-dark
 
 [kdeglobals][General]
-ColorScheme=Orchis
+ColorScheme=OrchisDark
 
 [kdeglobals][Icons]
 Theme=Neon-Knights-KDE
 
 [plasmarc][Theme]
-name=Orchis
+name=Orchis-dark
 
 [Wallpaper]
 Image=Next
@@ -26,7 +26,7 @@ LayoutName=org.kde.breeze.desktop
 ButtonsOnLeft=
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Orchis
+theme=__aurorae__svg__Orchis-dark
 
 [KSplash]
-Theme=com.github.vinceliuice.Orchis
+Theme=com.github.vinceliuice.Orchis-dark

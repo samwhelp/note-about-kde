@@ -2,13 +2,13 @@
 widgetStyle=kvantum-dark
 
 [kdeglobals][General]
-ColorScheme=Orchis
+ColorScheme=OrchisDark
 
 [kdeglobals][Icons]
 Theme=Papirus-Dark
 
 [plasmarc][Theme]
-name=Orchis
+name=Orchis-dark
 
 [Wallpaper]
 Image=Next
@@ -27,4 +27,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__ActiveAccentFrame
 
 [KSplash]
-Theme=com.github.vinceliuice.Orchis
+Theme=com.github.vinceliuice.Orchis-dark
