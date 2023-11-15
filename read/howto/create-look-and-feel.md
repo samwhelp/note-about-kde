@@ -21,6 +21,8 @@ parent: 如何
 | [remix-global-theme](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub) |
 | --- |
 | [Graphite](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/Graphite) |
+| [Layan](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/Layan) |
+| [Orchis](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/Orchis) |
 | [Neonyt](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/Neonyt) |
 | [SimplyCircles](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/remix/global-theme/sub/SimplyCircles) |
 
