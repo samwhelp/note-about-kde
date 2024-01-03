@@ -14,7 +14,7 @@ grand_parent: 設定
 
 ## 常用的應用程式
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L255-L264)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L259-L268)
 
 
 | 按鍵組合          | 功能     | 執行指令         |
@@ -30,15 +30,15 @@ grand_parent: 設定
 | `Win + 9` | 聚焦或開啟「應用程式 9」              | `activate task manager entry 9=` |
 
 
-> 關於「Win + 0」，用來綁定「[桌面恢復原來大小](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/desktop-control.html)」。
+> 關於「Win + 0」，用來綁定「[桌面恢復原來大小](https://samwhelp.github.io/note-about-kde/read/config/keybind/desktop-control.html)」。
 
 
 
 
 ## 用法對照
 
-* [工作空間切換](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/workspace-switch.html)
-* [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/window-move-to-workspace.html)
-* [應用程式切換 Tab Page](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-tab-page.html)
+* [工作空間切換](https://samwhelp.github.io/note-about-kde/read/config/keybind/workspace-switch.html)
+* [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kde/read/config/keybind/window-move-to-workspace.html)
+* [應用程式切換 Tab Page](https://samwhelp.github.io/note-about-kde/read/config/keybind/application-tab-page.html)
 * 通用鍵盤組合鍵操作 / [使用「上排數字鍵」相關的操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind/with-number-key)
 
