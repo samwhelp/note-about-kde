@@ -12,7 +12,7 @@ grand_parent: 設定
 > KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
 
 
-* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L222-L230)
+* [設定片段](https://github.com/samwhelp/note-about-kde/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L226-L234)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
