@@ -27,4 +27,4 @@ grand_parent: 設定
 
 ## 用法對照
 
-* [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kde/read/config/kde-plasma-adjustment/keybind/application-focus-or-launch-favorite.html)
+* [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kde/read/config/keybind/application-focus-or-launch-favorite.html)
