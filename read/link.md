@@ -13,6 +13,7 @@ has_children: true
 * [KDE](https://kde.org/)
 * KDE / [Documentation](https://develop.kde.org/docs/)
 * KDE / Documentation / [Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/)
+* KDE / [Applications](https://apps.kde.org/) ([應用程式](https://apps.kde.org/zh-tw/))
 
 
 ## KDE / Source

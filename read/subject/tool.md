@@ -8,9 +8,16 @@ has_children: true
 # 工具
 
 
+## Link
+
+* KDE / [Applications](https://apps.kde.org/) ([應用程式](https://apps.kde.org/zh-tw/))
+
+
 ## Project
 
 * Config / [Tool](https://github.com/samwhelp/note-about-kde/tree/gh-pages/_demo/prototype/tool)
+
+
 
 
 ## Subject
