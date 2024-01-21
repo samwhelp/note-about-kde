@@ -86,6 +86,7 @@
 
 
 * [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
+* [KDE neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) ([GitHub](https://github.com/samwhelp/note-about-kde-neon/))
 * [SDDM 探索筆記](https://samwhelp.github.io/note-about-sddm/) ([GitHub](https://github.com/samwhelp/note-about-sddm/))
 * [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
 * [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
