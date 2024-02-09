@@ -13,17 +13,20 @@
 
 ## 主題
 
+* [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
-* [設定](#設定)
 * [設定工具](#設定工具)
 * [基礎工具](#基礎工具)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
 
 
-## 設定
+## 按鍵綁定
 
-* [KDE Plasma Adjustment / 按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html)
+| 按鍵綁定 |
+| --- |
+| [鍵盤](https://samwhelp.github.io/note-about-kde/read/config/keybind.html) |
+| [滑鼠](https://samwhelp.github.io/note-about-kde/read/config/mousebind.html) |
 
 
 ## 如何
