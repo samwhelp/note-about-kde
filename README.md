@@ -1,7 +1,11 @@
 
+
 # 首頁
 
+| Link | GitHub |
+| ---- | ------ |
 | [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
+| [KDE neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
 
 
 ## KDE
