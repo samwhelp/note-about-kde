@@ -16,11 +16,11 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
-| `Print` | 螢幕截圖(開啟Spectacle)         |  |
+| `Alt + Print` | 螢幕截圖(開啟Spectacle)         |  |
 | `Win + Print` | 螢幕截圖(目前聚焦的視窗)         | `ActiveWindowScreenShot=` |
-| `Shift + Print` | 螢幕截圖(目前桌面)         | `FullScreenScreenShot=` |
-| `Win + Shift + Print` | 螢幕截圖(選取區塊)         | `RectangularRegionScreenShot=` |
-| `Win + Ctrl + Print` | 螢幕截圖(滑鼠游標當下的視窗)         | `WindowUnderCursorScreenShot=` |
+| `Print` | 螢幕截圖(目前桌面)         | `FullScreenScreenShot=` |
+| `Ctrl + Print` | 螢幕截圖(選取區塊)         | `RectangularRegionScreenShot=` |
+| `Shift + Print` | 螢幕截圖(滑鼠游標當下的視窗)         | `WindowUnderCursorScreenShot=` |
 
 
 * [Spectacle](https://apps.kde.org/spectacle/) ([中文](https://apps.kde.org/zh-tw/spectacle/))
