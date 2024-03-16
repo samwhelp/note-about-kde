@@ -1,8 +1,8 @@
 ---
 title: 如何設定「主題顏色」根據「桌面圖片」
-nav_order: 7610
+nav_order: 7031
 has_children: false
-parent: 如何設定「主題顏色」根據「桌面圖片」
+parent: 如何
 ---
 
 
