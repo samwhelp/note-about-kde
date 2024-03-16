@@ -21,12 +21,12 @@ parent: 如何
 進到「Appearance」，
 
 
-### Application Style
+## Application Style
 
 在「Application Style」這個頁面，選擇「**Breeze**」。
 
 
-### Colors
+## Colors
 
 在「Colors」這個頁面，
 
@@ -39,7 +39,7 @@ parent: 如何
 選擇「**From current wallpaper**」
 
 
-### Icons
+## Icons
 
 在「Icons」這個頁面，
 
@@ -62,7 +62,8 @@ parent: 如何
 
 
 
-### 如何測試
+
+## 如何測試
 
 可以執行「[variety](https://github.com/varietywalls/variety)」，用來切換「桌面圖片」。
 
