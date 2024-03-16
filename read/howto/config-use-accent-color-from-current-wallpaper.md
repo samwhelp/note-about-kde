@@ -48,12 +48,12 @@ parent: 如何
 舉例，可以選擇「[Neon Knights KDE](https://store.kde.org/p/1397764/)」。
 
 
-| [Neon Knights](https://www.opencode.net/ju1464/Neon_Knights/-/tree/master/Icons/Neon-Knights-KDE?ref_type=heads) Icon Themes |
+| Icon Theme / [Neon Knights](https://www.opencode.net/ju1464/Neon_Knights/-/tree/master/Icons/Neon-Knights-KDE?ref_type=heads) |
 | --- |
 | [Neon Knights KDE](https://store.kde.org/p/1397764/) |
 
 
-| [Chameleon](https://github.com/L4ki/Breeze-Chameleon-Icons) Icon Themes |
+| Icon Theme / [Chameleon](https://github.com/L4ki/Breeze-Chameleon-Icons) |
 | --- |
 | [Breeze Chameleon Dark](https://store.kde.org/p/1281798/) |
 | [Breeze Chameleon Light](https://store.kde.org/p/1298508/) |
