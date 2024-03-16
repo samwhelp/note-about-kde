@@ -50,8 +50,8 @@ parent: 如何
 
 | [Chameleon](https://github.com/L4ki/Breeze-Chameleon-Icons) Icon Themes |
 | --- |
-| [Breeze Chameleon Dark]https://store.kde.org/p/1281798/) |
-| [Breeze Chameleon Light]https://store.kde.org/p/1298508/) |
+| [Breeze Chameleon Dark](https://store.kde.org/p/1281798/) |
+| [Breeze Chameleon Light](https://store.kde.org/p/1298508/) |
 | [Breeze-Round-Chameleon Dark Icons](https://store.kde.org/p/1608771) |
 | [Breeze-Round-Chameleon Light Icons](https://store.kde.org/p/1608766) |
 
