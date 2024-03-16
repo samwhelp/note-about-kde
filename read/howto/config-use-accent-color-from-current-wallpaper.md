@@ -9,7 +9,7 @@ parent: 如何設定「主題顏色」根據「桌面圖片」
 # 如何設定「主題顏色」根據「桌面圖片」
 
 
-## 說明
+## 操作步驟
 
 開啟「System Settings」這個圖形介面操作程式，
 
@@ -41,3 +41,10 @@ parent: 如何設定「主題顏色」根據「桌面圖片」
 可以選擇「Folder 顏色」會根據「Accent Color」而改變的「Icon Package」。
 
 舉例，可以選擇「[Neon Knights KDE](https://store.kde.org/p/1397764/)」。
+
+
+### 如何測試
+
+可以執行「[variety](https://github.com/varietywalls/variety)」，用來切換「桌面圖片」。
+
+可以開啟「Dolphin」，用來觀看效果。
