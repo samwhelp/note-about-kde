@@ -38,9 +38,23 @@ parent: 如何設定「主題顏色」根據「桌面圖片」
 
 在「Icons」這個頁面，
 
-可以選擇「Folder 顏色」會根據「Accent Color」而改變的「Icon Package」。
+可以選擇「Folder 顏色」會根據「Accent Color」而改變的「Icon Theme」。
 
 舉例，可以選擇「[Neon Knights KDE](https://store.kde.org/p/1397764/)」。
+
+
+| [Neon Knights](https://www.opencode.net/ju1464/Neon_Knights/-/tree/master/Icons/Neon-Knights-KDE?ref_type=heads) Icon Themes |
+| --- |
+| [Neon Knights KDE](https://store.kde.org/p/1397764/) |
+
+
+| [Chameleon](https://github.com/L4ki/Breeze-Chameleon-Icons) Icon Themes |
+| --- |
+| [Breeze Chameleon Dark]https://store.kde.org/p/1281798/) |
+| [Breeze Chameleon Light]https://store.kde.org/p/1298508/) |
+| [Breeze-Round-Chameleon Dark Icons](https://store.kde.org/p/1608771) |
+| [Breeze-Round-Chameleon Light Icons](https://store.kde.org/p/1608766) |
+
 
 
 ### 如何測試
