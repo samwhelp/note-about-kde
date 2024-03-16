@@ -11,6 +11,11 @@ parent: 如何
 
 ## 操作步驟
 
+* [Application Style](#application-style)
+* [Colors](#colors)
+* [Icons](#icons)
+
+
 開啟「System Settings」這個圖形介面操作程式，
 
 進到「Appearance」，
