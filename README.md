@@ -29,8 +29,8 @@
 
 | 按鍵綁定 |
 | --- |
-| [鍵盤](https://samwhelp.github.io/note-about-kde/read/config/keybind.html) |
-| [滑鼠](https://samwhelp.github.io/note-about-kde/read/config/mousebind.html) |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/mousebind.html) |
 
 
 ## 如何
