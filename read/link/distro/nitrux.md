@@ -13,6 +13,7 @@ grand_parent: 連結
 * [Nitrux](https://nxos.org/) ([GitHub](https://github.com/Nitrux/))
 * [nx-desktop](https://nxos.org/english/nxd/) ([GitHub](https://github.com/nx-desktop))
 * [mauikit](https://mauikit.org/) ([Source](https://invent.kde.org/maui/mauikit))
+* SourceForge / [Nitrux](https://sourceforge.net/projects/nitruxos/)
 
 
 ## note
