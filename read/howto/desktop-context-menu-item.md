@@ -18,9 +18,9 @@ parent: 如何
 
 ## 設定片段
 
-* 以下設定在「桌面」的「滑鼠動作」會觸發的功能。
+> 以下設定在「桌面」的「滑鼠動作」會觸發的功能。
 
-``` ini
+```
 [ActionPlugins][0]
 MiddleButton;ControlModifier=org.kde.switchdesktop
 MiddleButton;NoModifier=switchwindow
@@ -29,9 +29,9 @@ RightButton;NoModifier=org.kde.contextmenu
 wheel:Vertical;NoModifier=org.kde.switchdesktop
 ```
 
-* 以下設定「桌面」的「滑鼠右鍵選單」要顯示的項目
+> 以下設定「桌面」的「滑鼠右鍵選單」要顯示的項目
 
-``` ini
+```
 [ActionPlugins][0][RightButton;NoModifier]
 _add panel=true
 _context=true
@@ -81,7 +81,7 @@ remove=true
 * 「Leave...」
 
 
-對照上面的設定檔
+對照上面「勾選項目」的「設定片段」如下
 
 ``` ini
 [ActionPlugins][0][RightButton;NoModifier]
