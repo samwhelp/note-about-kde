@@ -23,14 +23,14 @@ parent: 如何
 
 ## 設定片段
 
-從原來的
+> 從原來的
 
 ``` ini
 [ModifierOnlyShortcuts]
 Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
 ```
 
-改成如下
+> 改成如下
 
 ``` ini
 [ModifierOnlyShortcuts]
