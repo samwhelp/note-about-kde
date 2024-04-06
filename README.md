@@ -56,6 +56,12 @@
 | [SDDM 更改某個佈景主題的背景圖片](https://samwhelp.github.io/note-about-sddm/read/howto/custom-theme-background.html) |
 
 
+| 設定「Kwin」搭配其他「桌面環境」 |
+| --- |
+| Lubuntu 探索筆記 / [設定「Lxqt」搭配「Kwin」](https://samwhelp.github.io/note-about-lubuntu/read/howto/lxqt-with-wm/lxqt-with-kwin.html) |
+| Xubuntu 探索筆記 / [設定「Xfce」搭配「Kwin」](https://samwhelp.github.io/note-about-xubuntu/read/howto/xfce-with-wm/xfce-with-kwin.html) |
+
+
 ## 設定工具
 
 | 設定工具 |
