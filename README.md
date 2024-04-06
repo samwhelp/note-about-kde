@@ -98,18 +98,19 @@
 
 ## 相關筆記
 
+| Link | GitHub |
+| ---- | ------ |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling/) |
+| [SDDM 探索筆記](https://samwhelp.github.io/note-about-sddm/) | [GitHub](https://github.com/samwhelp/note-about-sddm/) |
+| [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos/) |
+| [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher/) |
+| [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) | [GitHub](https://github.com/samwhelp/note-about-biglinux/) |
+| [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) | [GitHub](https://github.com/samwhelp/note-about-xerolinux/) |
+| [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) | [GitHub](https://github.com/samwhelp/note-about-nitrux/) |
 
-* [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
-* [SDDM 探索筆記](https://samwhelp.github.io/note-about-sddm/) ([GitHub](https://github.com/samwhelp/note-about-sddm/))
-* [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
-* [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
-* [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
-* [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) ([GitHub](https://github.com/samwhelp/note-about-xerolinux/))
-* [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) ([GitHub](https://github.com/samwhelp/note-about-nitrux/))
-* [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) ([GitHub](https://github.com/samwhelp/note-about-debian/))
-* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) ([GitHub](https://github.com/samwhelp/note-about-ubuntu/))
 
-
-## samwhelp
+## Samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
