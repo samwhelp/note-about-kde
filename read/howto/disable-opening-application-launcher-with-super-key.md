@@ -18,10 +18,19 @@ parent: 如何
 
 | 設定檔路徑 |
 | --- |
-| [~/.config/kwinrc](https://github.com/samwhelp/ezarcher-adjustment/blob/main/prototype/de/kde-plasma/part/layout/kde-plasma-desktop-layout-basic/config/kde-plasma-desktop/skel/.config/kwinrc#L20) |
+| [~/.config/kwinrc](https://github.com/samwhelp/kde-neon-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L43-L44) |
 
 
 ## 設定片段
+
+從原來的
+
+``` ini
+[ModifierOnlyShortcuts]
+Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
+```
+
+改成如下
 
 ``` ini
 [ModifierOnlyShortcuts]

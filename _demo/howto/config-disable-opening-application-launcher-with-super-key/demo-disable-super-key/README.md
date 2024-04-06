@@ -1,6 +1,6 @@
 
 
-
+# disable-opening-application-launcher-with-super-key
 
 
 ## Reference
@@ -10,10 +10,21 @@
 
 ## Config File Path
 
-* ~/.config/[kwinrc](https://github.com/samwhelp/ezarcher-adjustment/blob/main/prototype/de/kde-plasma/part/layout/kde-plasma-desktop-layout-basic/config/kde-plasma-desktop/skel/.config/kwinrc#L20)
+| Config File Path |
+| --- |
+| [~/.config/kwinrc](https://github.com/samwhelp/kde-neon-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L43-L44) |
 
 
 ## Config Snippet
+
+> Orginal
+
+``` ini
+[ModifierOnlyShortcuts]
+Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
+```
+
+> Adjusted
 
 ``` ini
 [ModifierOnlyShortcuts]
