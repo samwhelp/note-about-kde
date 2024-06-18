@@ -8,6 +8,19 @@ has_children: true
 # 連結
 
 
+
+
+## News
+
+| News |
+| ---- |
+| [Plasma 6.1 brings improvements and powerful new features to every part of your desktop](https://kde.org/announcements/plasma/6/6.1.0/) |
+| [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/) |
+| [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/) |
+
+
+
+
 ## KDE
 
 * [KDE](https://kde.org/)
@@ -16,20 +29,12 @@ has_children: true
 * KDE / [Applications](https://apps.kde.org/) ([應用程式](https://apps.kde.org/zh-tw/))
 
 
+
+
 ## KDE / Source
 
 * GitHub / [KDE](https://github.com/KDE) / [plasma-desktop](https://github.com/KDE/plasma-desktop)
 * GitLab / [KDE](https://invent.kde.org/explore/groups) / [plasma-desktop](https://invent.kde.org/plasma/plasma-desktop)
-
-
-
-
-## News
-
-| News |
-| ---- |
-| [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/) |
-| [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/) |
 
 
 
