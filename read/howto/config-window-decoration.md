@@ -113,6 +113,8 @@ theme=Oxygen
 
 * /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
 * Ubuntu Package: 「[kwin-common](https://packages.ubuntu.com/oracular/kwin-common)」
+* KDE / Documentation / [Aurorae Window Decorations](https://develop.kde.org/docs/plasma/aurorae/)
+* KDE Store / [Plasma Window Decorations](https://store.kde.org/browse?cat=114&ord=latest)
 
 
 
