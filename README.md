@@ -47,6 +47,7 @@
 | [產生 layout-templates](https://samwhelp.github.io/note-about-kde/read/howto/create-layout-templates.html) |
 | [產生 look-and-feel](https://samwhelp.github.io/note-about-kde/read/howto/create-look-and-feel.html) |
 | [產生 aurorae-theme](https://samwhelp.github.io/note-about-kde/read/howto/create-aurorae-theme.html) |
+| [設定「Window Decoration」](https://samwhelp.github.io/note-about-kde/read/howto/config-window-decoration.html) |
 
 
 | [SDDM](https://samwhelp.github.io/note-about-sddm/read/howto.html) |
