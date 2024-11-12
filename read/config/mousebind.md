@@ -21,11 +21,20 @@ parent: 設定
 
 
 
+## Source Code
+
+* kwin / src / [kwin.kcfg](https://github.com/KDE/kwin/blob/master/src/kwin.kcfg#L8)
+
+
+
+
 ## 設定檔路徑
 
 | 設定檔路徑 |
 | ----------- |
-|  |
+| ~/.config/kwinrc |
+
+
 
 
 ## 視窗內容區塊
