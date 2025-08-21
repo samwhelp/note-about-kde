@@ -19,11 +19,14 @@
 ## 主題
 
 * [按鍵綁定](#按鍵綁定)
+* [Resource](#resource)
 * [如何](#如何)
 * [設定工具](#設定工具)
 * [基礎工具](#基礎工具)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
+
+
 
 
 ## 按鍵綁定
@@ -32,6 +35,21 @@
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-kde/read/config/mousebind.html) |
+
+
+
+
+## Resource
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
+
+
 
 
 ## 如何
@@ -63,11 +81,15 @@
 | Xubuntu 探索筆記 / [設定「Xfce」搭配「Kwin」](https://samwhelp.github.io/note-about-xubuntu/read/howto/xfce-with-wm/xfce-with-kwin.html) |
 
 
+
+
 ## 設定工具
 
 | 設定工具 |
 | --- |
 | [systemsettings](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-systemsettings/systemsettings.html) |
+
+
 
 
 ## 基礎工具
@@ -80,6 +102,8 @@
 | [plasma-apply-cursortheme](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-cursortheme.html) |
 | [plasma-apply-wallpaperimage](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/plasma-apply-wallpaperimage.html) |
 | [ksplashqml](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-plasma-workspace/ksplashqml.html) |
+
+
 
 
 ## 工具
